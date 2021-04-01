@@ -1,0 +1,608 @@
+/* 1 */
+{
+    "_id" : ObjectId("60351fc80c817f0398f9ed4f"),
+    "job_link" : "https://www.quora.com/What-are-my-career-options-after-taking-information-technology-degree?-",
+    "answer" : "RS Kumar Well, you are asking a question which can be answered in several ways. you have to be specific about what you have, what you want and what you need in IT. I am assuming jobs in IT. Let me give you a basic - very high level example. IT - > 1. Hardware (HW) 2. Software (SW) Under 1. HW (a big ocean) a. Intel platform (Desktops/laptops/Servers etc) - these are CISC (Complex Instruction Set Computing) based computing b. Others - Apple Mac, IBM mainframe (Apple Desktops / servers/ IBM Servers) etc - These are RISC (Reduced Instruction Set Computing) based computing & c. there is the other which is called Non-Stop Servers which are in between these two computing (RISC & CISC) for high availability. these are used in Banks / ATM’s etc. Then comes Storage/Datacenter/Networking and the list goes on… you hav Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:31:19.933Z"),
+    "question" : "What are my career options after taking information technology degree? ",
+    "source" : "Quora"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("60351fda0c817f0398f9ed59"),
+    "job_link" : "https://www.quora.com/What-are-the-top-paying-IT-jobs?-",
+    "answer" : "Tahseen Ahmad Its really good to see that you are motivated to get the highest paid job in the IT industry. The overall IT industry is comprised of various types roles which may offer you a a better career growth. In order to get desired pay package and additional benefits, employees need to train themselves on the correct fields and choose job opportunities that are worth their interest. The salary range is mainly based on the company. There are mainly two kinds of company that pays huge , Very well established companies that spends a bomb to get the best talent in the market.Those startup’s with huge VC investment will spend better than big shots to attract those engineers in the established companies.That being said i know a few software engineers that earn 48 Lakhs + annually( Fixed component)  The expe Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:31:38.564Z"),
+    "question" : "What are the top paying IT jobs? ",
+    "source" : "Quora"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("60351fee0c817f0398f9ed7f"),
+    "job_link" : "https://www.quora.com/Which-job-is-best-in-information-technology?-",
+    "answer" : "Mike Yahkind Percentage wise: the majority of job opportunities fall within the software development space. The highest paid jobs are mostly either in leadership or in senior cyber security jobs, some can even reach as high as $400,000. Unfortunately for many companies, right now they are facing rising cyberattacks. Due to the rise in demand, there is a shortage of trained cyber security professionals. Fortunately for those that are in the field, the gap in the market means high paying jobs. However, pay has been rising in the search for ALL hard-to-find skills that are in demand. The upcoming mass expansion in artificial intelligence (AI) and machine learning (ML) has led to a drastic demand for these professionals. AI/ML is projected to grow by 2.3 million new jobs within the next year. The average s Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:31:58.000Z"),
+    "question" : "Which job is best in information technology? ",
+    "source" : "Quora"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("603520010c817f0398f9ed87"),
+    "job_link" : "https://www.quora.com/What-are-the-scope-of-IT?-",
+    "answer" : "Manohar Tm Are you looking for the Scope in Information Technology in India? Do you know how much does a single IT Professional earns per month? How is the job opportunities available for IT candidates in India? For all such information, do check this content on “Scope and Salary of IT (information technology) in India”. Computer Science Engineering and Information Technology leads the world to different dimensions. Without using these technologies and innovations, there won’t be any development in the computer world. Information Technology got many branches. The basic cluster will be Software and Hardware course. For the certificate course, you can go with Diploma, Post Graduation Diploma, Bachelor Degree, Post Graduation and Ph.D. In India, many UGC affiliated colleges are offering these UG and PG co Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:32:17.076Z"),
+    "question" : "What are the scope of IT? ",
+    "source" : "Quora"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6035201b0c817f0398f9eda2"),
+    "job_link" : "https://www.quora.com/How-can-I-prepare-for-better-job-in-information-technology?-",
+    "answer" : "This question lacks specifics, but I will answer the two different ways I see it being interpreted.   IT is a career that if you do not love technology and how it functions you are going to have a bad time. There are other ways to make money.  Getting a “Good job in IT”:  If you are currently working in IT but you hate your surroundings or you are looking for more income with creature comforts skip the longer part.   Specialize, cert up, build your resume and keep your LinkedIn updated. If you do not like the people you are working with, change it. If you feel you are not being paid fairly, change it. If you have done your part in experience building the best you can with the job or jobs you have while keeping your knowledge fresh the rest is just a process. Sometimes experience bu Continue Reading This question lacks specifics, but I will answer the two different ways I see it being interpreted.   IT is a career that if you do not love technology and how it functions you are going to have a bad time. There are other ways to make money.  Getting a “Good job in IT”:  If you are currently working in IT but you hate your surroundings or you are looking for more income with creature comforts skip the longer part.   Specialize, cert up, build your resume and keep your LinkedIn updated. If you do not like the people you are working with, change it. If you feel you are not being paid fairly, change it. If you have done your part in experience building the best you can with the job or jobs you have while keeping your knowledge fresh the rest is just a process. Sometimes experience bu Continue Reading",
+    "date" : ISODate("2021-02-23T15:32:43.837Z"),
+    "question" : "How can I prepare for better job in information technology? ",
+    "source" : "Quora"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("603520430c817f0398f9edc2"),
+    "job_link" : "https://www.quora.com/What-type-of-jobs-can-I-get-if-I-graduate-from-college-with-a-degree-of-information-technology?-",
+    "answer" : "Rajiv KumarAnswered 2 years ago · Author has 846 answers and 3.1M answer viewsWhat type of jobs can I get if I graduate from college with a degree of information technology? Rajiv Kumar IT workers are highly specialized in their field. They like what they do and understand it inside and out. IT workers are also essential to just about every modern business model. If a company relies on phones and emails, chances are that there’s an IT professional behind it all making sure the cogs in the machine function properly. 1. IT consultant In this position, your job is to evaluate the systems and do the research that no one else entirely understands. Everyone from local startups to the Fortune 500 companies need IT consultants to help them figure out the cheapest and fastest ways to run computers better. 2. Cloud architectYou’ve heard of cloud computing of course. Although that storage space existing in the ether can’t be touched literally, it still needs to be organized and give Continue Reading",
+    "date" : ISODate("2021-02-23T15:33:23.755Z"),
+    "question" : "What type of jobs can I get if I graduate from college with a degree of information technology? ",
+    "source" : "Quora"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6035209d0c817f0398f9ee0c"),
+    "job_link" : "https://www.quora.com/What-are-government-jobs-related-to-information-technology?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:34:53.988Z"),
+    "question" : "What are government jobs related to information technology? ",
+    "source" : "Quora"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("603520b00c817f0398f9ee14"),
+    "job_link" : "https://www.quora.com/What-type-of-job-will-I-get-after-the-completion-of-an-MBA-in-information-technology?-",
+    "answer" : "Include Related Answers Kalyani Ramchandran Gomathy N",
+    "date" : ISODate("2021-02-23T15:35:12.618Z"),
+    "question" : "What type of job will I get after the completion of an MBA in information technology? ",
+    "source" : "Quora"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("603520c20c817f0398f9ee29"),
+    "job_link" : "https://www.quora.com/Are-there-jobs-in-the-Indian-Space-Research-Organisation-for-a-Bachelor-of-Technology-in-information-technology?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:35:30.570Z"),
+    "question" : "Are there jobs in the Indian Space Research Organisation for a Bachelor of Technology in information technology? ",
+    "source" : "Quora"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("603520e90c817f0398f9ee44"),
+    "job_link" : "https://www.quora.com/What-is-the-easiest-information-technology-job?-",
+    "answer" : "Let me share with you my own experience. From the point of view of someone with no computer sciences background, the best way to access the IT field and get a job in the sector is via low code techonologies. But let me explain it you… 4 years ago my programming skills were too low comparing to some freshman guy, so in order overcome my handicap and to accelerate my way in the IT field, instead of learning JAVA/.NET/Python/Angular from the scratch I decided to focus all my time and energy in learning low code technologies like Mulesoft, Tibco, WSO2 or Outsystems and I’m so happy that I did it. But why I decided to invest my time learning low code technologies? Currently, there is a high demand in the market for low code developers so by learning the fundamentals about one specific technology youContinue Reading Let me share with you my own experience. From the point of view of someone with no computer sciences background, the best way to access the IT field and get a job in the sector is via low code techonologies. But let me explain it you… 4 years ago my programming skills were too low comparing to some freshman guy, so in order overcome my handicap and to accelerate my way in the IT field, instead of learning JAVA/.NET/Python/Angular from the scratch I decided to focus all my time and energy in learning low code technologies like Mulesoft, Tibco, WSO2 or Outsystems and I’m so happy that I did it. But why I decided to invest my time learning low code technologies? Currently, there is a high demand in the market for low code developers so by learning the fundamentals about one specific technology youContinue Reading",
+    "date" : ISODate("2021-02-23T15:36:09.497Z"),
+    "question" : "What is the easiest information technology job? ",
+    "source" : "Quora"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("6035211c0c817f0398f9ee69"),
+    "job_link" : "https://www.quora.com/Are-job-prospects-better-for-a-BBA-in-information-technology-or-information-systems?-",
+    "answer" : "To me, Information Systems and Information Technology are two names for the same thing. Just look up different fields of IT in job-search sites to get a better idea. Use terms like “Networking, Systems, Database, etc.” to see what jobs are available. IT is a booming industry with jobs all over the planet.",
+    "date" : ISODate("2021-02-23T15:37:00.979Z"),
+    "question" : "Are job prospects better for a BBA in information technology or information systems? ",
+    "source" : "Quora"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("603521590c817f0398f9ee90"),
+    "job_link" : "https://www.quora.com/What-is-the-job-role-of-an-IT-consultant?-",
+    "answer" : "Combining IT and business knowledge, the world of IT consultancy demands a broad range of skills. An IT consultant works in partnership with clients, advising them how to use information technology in order to meet their business objectives or overcome problems. They work to improve the structure and efficiency of IT systems in various organisations.You should know benefit of an IT consultant. IT consultants may be used to provide strategic guidance to clients with regard to technology, IT infrastructures and enabling major business processes through enhancements to IT. They can also be used to provide guidance during selection and procurement as well as providing expert technical assistance, and may be responsible for user training and feedback. IT consultants may also be involved in sales  Continue Reading Combining IT and business knowledge, the world of IT consultancy demands a broad range of skills. An IT consultant works in partnership with clients, advising them how to use information technology in order to meet their business objectives or overcome problems. They work to improve the structure and efficiency of IT systems in various organisations.You should know benefit of an IT consultant. IT consultants may be used to provide strategic guidance to clients with regard to technology, IT infrastructures and enabling major business processes through enhancements to IT. They can also be used to provide guidance during selection and procurement as well as providing expert technical assistance, and may be responsible for user training and feedback. IT consultants may also be involved in sales  Continue Reading",
+    "date" : ISODate("2021-02-23T15:38:01.191Z"),
+    "question" : "What is the job role of an IT consultant? ",
+    "source" : "Quora"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("603521800c817f0398f9eea9"),
+    "job_link" : "https://www.quora.com/Can-I-become-a-software-engineer-with-a-Information-Technology-degree?-",
+    "answer" : "Travis Worley The answer is a resounding, 100%, yes. How do I know? Well, the main reason is that I have no degree at all, and I've had a going on 25yr career, in all manner of IT, computer science, and software development roles. I have been a network admin. I have been a software developer. I have been an “internet/web” developer. I have been an IT manager. I have been a program manager, a project manager, a software development manager, a lead developer, an Engineering & Technology Manager, a Director of Systems Management (otherwise known as Director of Technology), and way way back starting my career (far enough back I dont even bother keeping them on my resume or LinkedIn profiles) I was even a help desk tech for a major corporation and a network tech who built pcs, servers, and networks. So, my qu Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:38:40.240Z"),
+    "question" : "Can I become a software engineer with a Information Technology degree? ",
+    "source" : "Quora"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("603521950c817f0398f9eebf"),
+    "job_link" : "https://www.quora.com/What-do-IT-specialists-do?-",
+    "answer" : "( I am glad that I am not - it takes me, even now, 3 attempts to successfully write a Excel macro !). My take - a overwhelming desire to play games, the newer and tougher, the better.dissecting them, (the games) especially the not so highly popular ones to the extent that no crumbs are left.not in praise of any one system or software; nor envious; equally comfortable with what works for them easily and seamlessly.fairly comfortable with new technical advances; mostly understood, analyzed and perhaps junked within 48 hours.understands the difference between a optical zoom and one that is not; a half sensor (in camera’s) and all that is involved in photography - and finds older technology (films and all); as a good riddance.want’s / need’s a “reliable” Internet connection, the speed being secoContinue Reading ( I am glad that I am not - it takes me, even now, 3 attempts to successfully write a Excel macro !). My take - a overwhelming desire to play games, the newer and tougher, the better.dissecting them, (the games) especially the not so highly popular ones to the extent that no crumbs are left.not in praise of any one system or software; nor envious; equally comfortable with what works for them easily and seamlessly.fairly comfortable with new technical advances; mostly understood, analyzed and perhaps junked within 48 hours.understands the difference between a optical zoom and one that is not; a half sensor (in camera’s) and all that is involved in photography - and finds older technology (films and all); as a good riddance.want’s / need’s a “reliable” Internet connection, the speed being secoContinue Reading",
+    "date" : ISODate("2021-02-23T15:39:01.714Z"),
+    "question" : "What do IT specialists do? ",
+    "source" : "Quora"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("603521ab0c817f0398f9eecc"),
+    "job_link" : "https://www.quora.com/What-is-the-job-opportunity-for-IT-in-Canada?-",
+    "answer" : "IT sector is booming in Canada and this trend will continue well into the coming years. One of the most fascinating thing about Canada's IT industry is that cities like Toronto, Montreal and Vancouver are now well established leaders in IT and rapid expansion in IT in Canada is beating silicon valley as well. Which such rapid growth Canadian IT industry, it is a challenge for employers to access the right talent in need but at the same time it is a good opportunity for all the IT professionals who want to grow their skill in this increasing demand.  Some of the job opportunities for IT graduates are: 1. Developer/programmer- Full stack developers with range of front and back and skills. Java Python and .net of some of the top specialities of the employers look for. The average Software Develop Continue Reading IT sector is booming in Canada and this trend will continue well into the coming years. One of the most fascinating thing about Canada's IT industry is that cities like Toronto, Montreal and Vancouver are now well established leaders in IT and rapid expansion in IT in Canada is beating silicon valley as well. Which such rapid growth Canadian IT industry, it is a challenge for employers to access the right talent in need but at the same time it is a good opportunity for all the IT professionals who want to grow their skill in this increasing demand.  Some of the job opportunities for IT graduates are: 1. Developer/programmer- Full stack developers with range of front and back and skills. Java Python and .net of some of the top specialities of the employers look for. The average Software Develop Continue Reading",
+    "date" : ISODate("2021-02-23T15:39:23.286Z"),
+    "question" : "What is the job opportunity for IT in Canada? ",
+    "source" : "Quora"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("603521ea0c817f0398f9eef7"),
+    "job_link" : "https://www.quora.com/What-kind-of-jobs-in-the-IT-sector-will-be-in-demand-in-the-2020s?-",
+    "answer" : "As the tech industry continues to rise and many companies adapt to digital processes, jobs for IT professionals continue to become in-demand. Here are in-demand jobs in the field of tech.  Business Intelligence Analyst Skills and Experience: Degree in Computer Science, IT, Engineering, or equivalentExperience in handling database queriesOnline Analytical Processing of data trendsStored procedure writingKnowledge in data cube technologyStrong communication skillsData Scientist Skills and Experience: Degree in Data Science, Computer Science, or equivalentDeep understanding and application of statistics, machine learning techniques and algorithmsProficient in using statistical programming languages, like Python, and a database query language like SQLKnowledge and experience in data wranglingExcelleContinue Reading As the tech industry continues to rise and many companies adapt to digital processes, jobs for IT professionals continue to become in-demand. Here are in-demand jobs in the field of tech.  Business Intelligence Analyst Skills and Experience: Degree in Computer Science, IT, Engineering, or equivalentExperience in handling database queriesOnline Analytical Processing of data trendsStored procedure writingKnowledge in data cube technologyStrong communication skillsData Scientist Skills and Experience: Degree in Data Science, Computer Science, or equivalentDeep understanding and application of statistics, machine learning techniques and algorithmsProficient in using statistical programming languages, like Python, and a database query language like SQLKnowledge and experience in data wranglingExcelleContinue Reading",
+    "date" : ISODate("2021-02-23T15:40:26.574Z"),
+    "question" : "What kind of jobs in the IT sector will be in demand in the 2020s? ",
+    "source" : "Quora"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("603522190c817f0398f9ef15"),
+    "job_link" : "https://www.quora.com/What-type-of-jobs-are-available-for-someone-with-a-dual-degree-in-marketing-and-information-technology?-",
+    "answer" : "Cailey Gibson Marketing and Technology is a great blend. Below are a few jobs titles I would suggest looking into. Marketing AnalystBusiness Analyst (more to the tech side)Digital Marketing (more to the marketing side)Software AnalystTechnical marketing engineerUser experience jobsDetermine what you like about IT and what you like about marketing. Once you’ve determined that, look at the job descriptions that combine marketing and IT to determine which will be the best fit. Keep in mind that the company type you work for will play a large role in what that position is like too. For instance, a Digital marketing position at a technology company will be more technology heavy than if you hold a digital marketing position at a bank or insurance company. Cody Charles Deegan",
+    "date" : ISODate("2021-02-23T15:41:13.592Z"),
+    "question" : "What type of jobs are available for someone with a dual degree in marketing and information technology? ",
+    "source" : "Quora"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("6035226f0c817f0398f9ef4b"),
+    "job_link" : "https://www.quora.com/What-careers-are-available-with-a-business-information-technology-degree?-",
+    "answer" : "Keywin Thomas  Maintaining the software that tracks inventory, prices, payroll, human resources data. It may include maintaining the business equivalent of Quicken, document databases that house work procedures and business processes, and customer relationship management systems. When I was supporting engineering software, the product data management systems that held part drawings, models, technical simulations and test data, that was considered (at times) part of engineering support, general IT or its own department.",
+    "date" : ISODate("2021-02-23T15:42:39.467Z"),
+    "question" : "What careers are available with a business information technology degree? ",
+    "source" : "Quora"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("603522980c817f0398f9ef69"),
+    "job_link" : "https://www.quora.com/Are-there-Information-technology-jobs-involved-with-travel?-",
+    "answer" : "Bob Nightingale When I was a sales engineer, I was doing 80% travel. I would give presentations some times up to 4 cities per week. My reward for over 200 nights away from home was a week in Hawaii with the sales management. That was a little much that year. In consulting, I typically do about 60% travel—leaving on a Monday afternoon and getting home Thursday night. I work from home during holiday weeks or when I have a doctor’s appointment. I’ve known trainers who traveled often to customer sites. But many of those jobs have been eliminated with tele-presence software, like Skype or GoToMeeting. I worked remote for about 7 years in my home office. About once a year, I would travel to the main office for some team building. Occasionally I would go to a customer site to do hand-holding training or troubleshoo Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-23T15:43:20.557Z"),
+    "question" : "Are there Information technology jobs involved with travel? ",
+    "source" : "Quora"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("603522b10c817f0398f9ef87"),
+    "job_link" : "https://www.quora.com/Which-information-technology-jobs-can-be-done-completely-from-home?-",
+    "answer" : "It amazing how many tech and business jobs can be done at home. In the business world, communication and process were key. To solve a problem, management would vall a meeting and the brainstorming session would begin. Today, even brainstorming can be done over group chat, Skype, teleconference, etc. Process meant that paper had to be touched and passed along. Today this is either done electronically, or has been automated out of existence. I am, of couse, speaking only of jobs that do not require face to face interaction with the customer. In IT it is much the same. Any job that does not require interfacing with hardware or customers is done virtually. Support is done on servers which may reside in another geographical zone using putty or rdp to gain access. Developers checkout code from svn Continue Reading It amazing how many tech and business jobs can be done at home. In the business world, communication and process were key. To solve a problem, management would vall a meeting and the brainstorming session would begin. Today, even brainstorming can be done over group chat, Skype, teleconference, etc. Process meant that paper had to be touched and passed along. Today this is either done electronically, or has been automated out of existence. I am, of couse, speaking only of jobs that do not require face to face interaction with the customer. In IT it is much the same. Any job that does not require interfacing with hardware or customers is done virtually. Support is done on servers which may reside in another geographical zone using putty or rdp to gain access. Developers checkout code from svn Continue Reading",
+    "date" : ISODate("2021-02-23T15:43:45.395Z"),
+    "question" : "Which information technology jobs can be done completely from home? ",
+    "source" : "Quora"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("603522db0c817f0398f9efa0"),
+    "job_link" : "https://www.quora.com/What-are-the-government-jobs-available-in-India-after-BSc-in-information-technology?-",
+    "answer" : "Include Related Answers Bruce 2",
+    "date" : ISODate("2021-02-23T15:44:27.562Z"),
+    "question" : "What are the government jobs available in India after BSc in information technology? ",
+    "source" : "Quora"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("603522f00c817f0398f9efb4"),
+    "job_link" : "https://www.quora.com/What-will-be-the-jobs-in-Information-Technology-in-the-next-decade-with-a-good-outlook?-",
+    "answer" : "Q: What will be the job in Information Technology in the next decade? Software DevelopmentDataReportingAnalyticsVisualisationBig DataWarehousingAdministration roles may decline, as client computing, telephony, communication and collaboration technology becomes commoditised, cloud based, automated and autonomic. For example, Google and Microsoft will happily rent a device, operating system, email, IM and presence, enterprise file sync and share to you for a few pounds|euros|dollars per month, and mobile companies will rent you a smartphone and mobile Internet for a few more.",
+    "date" : ISODate("2021-02-23T15:44:48.041Z"),
+    "question" : "What will be the jobs in Information Technology in the next decade with a good outlook? ",
+    "source" : "Quora"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("603523040c817f0398f9efbe"),
+    "job_link" : "https://www.quora.com/What-kind-of-IT-jobs-will-be-lost-due-to-automation?-",
+    "answer" : "Karthik Rao, IT guy (2011-present)Answered 4 years ago · Author has 73 answers and 88.6K answer viewsWhat kind of IT jobs will be lost due to automation? Karthik Rao A manager tells in the below news article how an automated dashboard took his place and now he struggles as other companies don’t want to pay that much for him and they demand new skills. Entire generation of IT managers set to lose jobs as frugal companies embrace automation - The Economic Times Take a look at the below tool :  iCEO , as the name suggests which can replace a CEO maybe in the near future. Here’s How Managers Can Be Replaced by Software mentions a test for it - a 124-page research report for a fortune-500 company . Read below what they did & found. Feeding parameters into iCEO We spent a few hours plugging in the parameters of the project, i.e. structuring the flow of tasks, then hit play. For instance, to create an in-depth assessment of how graphene is produced, iCEO asked work Continue Reading",
+    "date" : ISODate("2021-02-23T15:45:08.791Z"),
+    "question" : "What kind of IT jobs will be lost due to automation? ",
+    "source" : "Quora"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("603523190c817f0398f9efcc"),
+    "job_link" : "https://www.quora.com/Is-information-technology-a-dead-end-job?-",
+    "answer" : "There is a great deal of truth to the many answers I read in the comments section of your link. Yeah its been a year and older IT people are rare on Quora, hence the lack of getting an answer. Young initiates to the IT field only see opportunity and big pay checks. Truth is people leave IT in droves because it has been and will continue to be a rough place to make a living with high turn over and burnout always nipping at one’s heels. Take a look at your current IT department and tell me how many plus 40 or 50 year olds you see? The field wasn’t invented 10 or 20 years ago but 80 years ago. Most people don’t make it to retirement in IT. The Grim IT career reaper awaits us all! Good luck!",
+    "date" : ISODate("2021-02-23T15:45:29.584Z"),
+    "question" : "Is information technology a dead end job? ",
+    "source" : "Quora"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("6035232e0c817f0398f9efe2"),
+    "job_link" : "https://www.quora.com/Is-there-a-place-in-information-technology-for-long-term-unemployed-job-seekers?-",
+    "answer" : "Speaking from a US perspective, there seems to be a lot of age bias and a reluctance to hire more experienced people.   Even though there are laws against it, I think that it is difficult to get hired by a lot of organizations.  However, I do think there are some organizations that do a better job of hiring without being so focused on age.  Universities, as a whole, seem to do a better job and may be one place to look for IT positions.   So, keep trying as I think any organization that can get past the age bias would consider you.  Once you've identified those organizations without a significant age bias, I'd focus on those and keep trying.",
+    "date" : ISODate("2021-02-23T15:45:50.471Z"),
+    "question" : "Is there a place in information technology for long-term unemployed job seekers? ",
+    "source" : "Quora"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("603523a80c817f0398f9f030"),
+    "job_link" : "https://www.quora.com/Which-are-the-best-information-technology-job-websites-in-Bahrain?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:47:52.819Z"),
+    "question" : "Which are the best information technology job websites in Bahrain? ",
+    "source" : "Quora"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("603523d50c817f0398f9f049"),
+    "job_link" : "https://www.quora.com/What-careers-and-jobs-are-there-for-Information-Systems-or-Information-Technology?-",
+    "answer" : "IT people can work in numerous field. Some are listed below 1. IT consultant 2. Cloud architect 3. Computer forensic investigator 4. Health IT specialist 5. Mobile application developer 6. Web developer 7. Software engineer 8. Information technology vendor manager 9. Software Tester 10. Data Modeler",
+    "date" : ISODate("2021-02-23T15:48:37.566Z"),
+    "question" : "What careers and jobs are there for Information Systems or Information Technology? ",
+    "source" : "Quora"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("603523f10c817f0398f9f063"),
+    "job_link" : "https://www.quora.com/What-is-the-most-nice-and-social-ambient-in-Information-Technology-Jobs?-",
+    "answer" : "Include Related Answers  What is the most nice and social ambient in Information Technology Jobs?",
+    "date" : ISODate("2021-02-23T15:49:05.648Z"),
+    "question" : "What is the most nice and social ambient in Information Technology Jobs? ",
+    "source" : "Quora"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("6035242f0c817f0398f9f08b"),
+    "job_link" : "https://www.quora.com/Are-there-any-information-technology-jobs-in-the-hotel-industry?-",
+    "answer" : "Original Question: “Are there any information technology hotel jobs?” Hell yes! Now, don’t get me wrong. Hospitality does not pay well for equivalent roles when compared with pretty much any other industry and they do tend to struggle on with whatever and whoever they have on hand, on the day.. However, they do still need people to get work done. The lack of people means there are more opportunities to do a greater variety of tasks than you’d find in a typical corporate IT department. So it can be a popular place to start an IT career (especially if it’s in a remote location). Every resort has a resort management system and these days, needs some serious IT & networking infrastructure to operate their POS / reception / back office systems / business lounge / in room entertainment systems / etc Continue Reading Original Question: “Are there any information technology hotel jobs?” Hell yes! Now, don’t get me wrong. Hospitality does not pay well for equivalent roles when compared with pretty much any other industry and they do tend to struggle on with whatever and whoever they have on hand, on the day.. However, they do still need people to get work done. The lack of people means there are more opportunities to do a greater variety of tasks than you’d find in a typical corporate IT department. So it can be a popular place to start an IT career (especially if it’s in a remote location). Every resort has a resort management system and these days, needs some serious IT & networking infrastructure to operate their POS / reception / back office systems / business lounge / in room entertainment systems / etc Continue Reading",
+    "date" : ISODate("2021-02-23T15:50:07.395Z"),
+    "question" : "Are there any information technology jobs in the hotel industry? ",
+    "source" : "Quora"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("603524450c817f0398f9f099"),
+    "job_link" : "https://www.quora.com/Are-jobs-in-Information-Technology-related-fields-gender-defined?-",
+    "answer" : "In agreement to the previous other comment, I too would like to believe that the IT industry has this absolute indifference to what your gender is, so long as you can do the job being asked. As also mentioned, having more females in the field might also do it more good as such addition in the workforce could create some positive changes and possible even innovations in terms of technologies and systems being developed.",
+    "date" : ISODate("2021-02-23T15:50:29.309Z"),
+    "question" : "Are jobs in Information Technology related fields gender defined? ",
+    "source" : "Quora"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("603524790c817f0398f9f0b9"),
+    "job_link" : "https://www.quora.com/Are-information-technology-jobs-being-replaced-with-robots?-",
+    "answer" : "Automated, not replaced.Some examples: Programmer. Better code editors, preventing mistakes and helpful templates. It is probably the most heavily automated job ever.Social media manager. A bot can engage and answer most trivial questions, then the most complex ones are passed to human operators. The AI will learn also from human work.Sales manager. Sales are fully automated and the work will be to analyze sales flow and make promotions. Prices are automatically set to raise as demand increases or decreases within certain limits.SysAdmin. The job is already so automated that if set well is just a matter of choosing a provider, plug some cables, wait for things to go wrong and do things if the auto recovery doesn’t work.As a general rule, if the job is sitting in a office, doing task which  Continue Reading Automated, not replaced.Some examples: Programmer. Better code editors, preventing mistakes and helpful templates. It is probably the most heavily automated job ever.Social media manager. A bot can engage and answer most trivial questions, then the most complex ones are passed to human operators. The AI will learn also from human work.Sales manager. Sales are fully automated and the work will be to analyze sales flow and make promotions. Prices are automatically set to raise as demand increases or decreases within certain limits.SysAdmin. The job is already so automated that if set well is just a matter of choosing a provider, plug some cables, wait for things to go wrong and do things if the auto recovery doesn’t work.As a general rule, if the job is sitting in a office, doing task which  Continue Reading",
+    "date" : ISODate("2021-02-23T15:51:21.452Z"),
+    "question" : "Are information technology jobs being replaced with robots? ",
+    "source" : "Quora"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("6035248e0c817f0398f9f0c5"),
+    "job_link" : "https://www.quora.com/Why-are-information-technology-jobs-being-outsourced?-",
+    "answer" : "Balachandran Krishnamoorty",
+    "date" : ISODate("2021-02-23T15:51:42.646Z"),
+    "question" : "Why are information technology jobs being outsourced? ",
+    "source" : "Quora"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("603524a60c817f0398f9f0df"),
+    "job_link" : "https://www.quora.com/What-is-the-Job-Profile-after-doing-a-Masters-in-Information-Technology-from-the-USA?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:52:06.049Z"),
+    "question" : "What is the Job Profile after doing a Masters in Information Technology from the USA? ",
+    "source" : "Quora"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("603524b90c817f0398f9f0ea"),
+    "job_link" : "https://www.quora.com/What-are-different-types-of-job-profiles-in-the-field-of-computer-science-and-information-technology?-",
+    "answer" : "Include Related Answers  What are different types of job profiles in the field of computer science and information technology?",
+    "date" : ISODate("2021-02-23T15:52:25.245Z"),
+    "question" : "What are different types of job profiles in the field of computer science and information technology? ",
+    "source" : "Quora"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("603525060c817f0398f9f11b"),
+    "job_link" : "https://www.quora.com/What-are-the-job-profiles-for-an-electrical-engineer-in-IT-companies?-",
+    "answer" : "My son-in-law is an EE and he has always worked in IT. I am kind of embarrassed to have to admit I don't know exactly what he does, but I know he designs circuits used in transmitting information, and they are always trying to reduce costs with a more efficient design and less expensive parts, while keeping the quality high. He used to travel quite a bit to the countries that would manufacture the product, but now the prototypes are built in the US, so he hasn't had to travel in quite some time. My son has a friend that is an EE and he worked for one of the companies that manufactured cell phones.",
+    "date" : ISODate("2021-02-23T15:53:42.608Z"),
+    "question" : "What are the job profiles for an electrical engineer in IT companies? ",
+    "source" : "Quora"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("603525360c817f0398f9f141"),
+    "job_link" : "https://www.quora.com/Is-New-Zealand-good-for-information-technology-jobs?-",
+    "answer" : "Include Related Answers  Is New Zealand good for information technology jobs?",
+    "date" : ISODate("2021-02-23T15:54:30.323Z"),
+    "question" : "Is New Zealand good for information technology jobs? ",
+    "source" : "Quora"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("603525520c817f0398f9f159"),
+    "job_link" : "https://www.quora.com/Is-an-information-technology-job-good-for-a-CA?-",
+    "answer" : "Include Related Answers  What are the top paying IT jobs?",
+    "date" : ISODate("2021-02-23T15:54:58.909Z"),
+    "question" : "Is an information technology job good for a CA? ",
+    "source" : "Quora"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("6035256c0c817f0398f9f165"),
+    "job_link" : "https://www.quora.com/Can-I-get-a-job-in-Canada-with-a-BE-in-Information-Technology-from-Mumbai-University?-",
+    "answer" : "Chandan Kumar, former Senior Immigration Consultant at Abhinav Outsourcings Pvt Ltd (2014-2020)Updated 2 years agoCan I get a job in Canada with a BE in Information Technology from Mumbai University? Chandan Kumar Yes , you will get job in Canada with BE information technology. If you have 2–3 years of experience and Canada PR. IT professionals are highly demanded professionals in Canada and are highly paid as well. so cheers, Canada is a dream destination for IT professionals. If you are searching job in Canada then you have to be physically present over there. Apply for Canada PR if you have 2–3 years of experience because once you have PR then chances of getting job are very high without PR it’s nearly impossible to get job in Canada. Anybody who want to live, work and settle in Canada on PR visa then fill this inquiry form for free assessment Inquiry Form for Express Entry/PNP Business Visa you will get a call from our immigration experts. He/she will call you and give detailed information about imm Continue Reading",
+    "date" : ISODate("2021-02-23T15:55:24.453Z"),
+    "question" : "Can I get a job in Canada with a BE in Information Technology from Mumbai University? ",
+    "source" : "Quora"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("6035259a0c817f0398f9f187"),
+    "job_link" : "https://www.quora.com/Is-a-diploma-in-information-technology-enough-to-get-a-good-job?-",
+    "answer" : "If it is about getting a good job, then yeah, you will definitely get a good job after doing diploma in Information and Technology. But it is not enough, I must say. Today, technology has become an integral part of our everyday life and the demand for IT people is rapidly growing. That’s why the competition becomes tough and people need to work hard and hard to earn well. However, there are some companies where a degree doesn’t matter, but only a person’s knowledge matters most. IT people must keep themselves updated. The higher the degree and knowledge you have, the more successful you will become.",
+    "date" : ISODate("2021-02-23T15:56:10.943Z"),
+    "question" : "Is a diploma in information technology enough to get a good job? ",
+    "source" : "Quora"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("603525c70c817f0398f9f1aa"),
+    "job_link" : "https://www.quora.com/What-should-I-do-to-get-a-high-paid-Information-Technology-job?-",
+    "answer" : "Kunal Bhattacharya, former Associate Consultant at Virtusa Consulting Services Private Ltd. (2017-2019)Answered 3 years ago · Upvoted by Vaibhav Mandowara, M.Tech Information Technology, Indian Institute of Information Technology, Allahabad (2017) · Author has 114 answers and 139.4K answer viewsWhat should I do to get a high-paid Information Technology job? Kunal Bhattacharya What should I do to get a high-paid Information Technology job?",
+    "date" : ISODate("2021-02-23T15:56:55.691Z"),
+    "question" : "What should I do to get a high-paid Information Technology job? ",
+    "source" : "Quora"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("603525f40c817f0398f9f1bf"),
+    "job_link" : "https://www.quora.com/How-is-job-placement-in-information-technology?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:57:40.520Z"),
+    "question" : "How is job placement in information technology? ",
+    "source" : "Quora"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("603526080c817f0398f9f1d4"),
+    "job_link" : "https://www.quora.com/What-types-of-jobs-that-combine-finance-and-information-technology?-",
+    "answer" : "Include Related Answers  What kind of job would combine finance and technology?",
+    "date" : ISODate("2021-02-23T15:58:00.395Z"),
+    "question" : "What types of jobs that combine finance and information technology? ",
+    "source" : "Quora"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("6035264a0c817f0398f9f204"),
+    "job_link" : "https://www.quora.com/Is-it-hard-to-find-a-job-in-information-technology-in-India?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T15:59:06.843Z"),
+    "question" : "Is it hard to find a job in information technology in India? ",
+    "source" : "Quora"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("603526960c817f0398f9f232"),
+    "job_link" : "https://www.quora.com/What-are-government-jobs-related-to-information-technology-in-India?-",
+    "answer" : "They are in plenty. Try post of scientists in NIC - Central government's IT arm. Falls under Ministry of Electronics and Information Technology - MeitY.Almost every Navratna (NTPC, BHEL etc.) recruits graduate engineers and few of them are allocated to IT branch.Banks (e.g. SBI) provide opportunities at various levels.And the list continues. Try looking for the advt in Rozgar. Aman Gupta",
+    "date" : ISODate("2021-02-23T16:00:22.368Z"),
+    "question" : "What are government jobs related to information technology in India? ",
+    "source" : "Quora"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("603526ed0c817f0398f9f272"),
+    "job_link" : "https://www.quora.com/Which-are-the-top-paying-jobs-in-information-technology-in-2014?-",
+    "answer" : "The top 4 highest paying IT careers for 2014:                                                                           Chief Information Officer (CIO): The CIO is responsible for the organization's technical   direction, including budgeting, equipment, personnel, and other IT-related   projects. As an increasing number of companies augment their IT   infrastructure with third-party hosting, backup/recovery and other   cloud-based services, it’s more important than ever before to employ a   future-minded CIO who can capitalize on emerging trends to cut costs and   drive big-picture goals.                                                                          Chief Technology Officer (CTO): Like the aforementioned CIO,   successful Chief Technology Officers are effective leaders and strat Continue Reading The top 4 highest paying IT careers for 2014:                                                                           Chief Information Officer (CIO): The CIO is responsible for the organization's technical   direction, including budgeting, equipment, personnel, and other IT-related   projects. As an increasing number of companies augment their IT   infrastructure with third-party hosting, backup/recovery and other   cloud-based services, it’s more important than ever before to employ a   future-minded CIO who can capitalize on emerging trends to cut costs and   drive big-picture goals.                                                                          Chief Technology Officer (CTO): Like the aforementioned CIO,   successful Chief Technology Officers are effective leaders and strat Continue Reading In India ie at domestic level what I have heard is WorldQuant offering Rs. 38,00,000 INR.Globally it is (may be ) Google Inc.",
+    "date" : ISODate("2021-02-23T16:01:49.901Z"),
+    "question" : "Which are the top paying jobs in information technology in 2014? ",
+    "source" : "Quora"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("603527070c817f0398f9f27c"),
+    "job_link" : "https://www.quora.com/What-are-some-best-job-oriented-courses-for-Btech-Information-Technology-students?-",
+    "answer" : "​  ​  ​  ​SOLUTIONS FOR ME ENTERPRISES SCHOOLS BUSINESS OPPORTUNITY  ​Be Future Ready With New - Be future ​NIIT Cloud Campus. Experience the New Way of Learning.  ​DigiNxt – IT Courses for Graduates India is home to a digitally ready talent pool of 500,000 engineers suitable to execute digital transformation projects. This is expected to increase to over a million engineers trained in digital transformation technologies by 2020. Owing to this massive growth in demand, already today any entry-level and experienced professional with Digital Transformation Skills attracts 50% to 60% higher salaries than those with traditional IT skills.NIIT’s digiNxt programs empower graduates with future-skill-sets requirement of the industry to help create job-ready talent pool for the fast evolving global  Continue Reading ​  ​  ​  ​SOLUTIONS FOR ME ENTERPRISES SCHOOLS BUSINESS OPPORTUNITY  ​Be Future Ready With New - Be future ​NIIT Cloud Campus. Experience the New Way of Learning.  ​DigiNxt – IT Courses for Graduates India is home to a digitally ready talent pool of 500,000 engineers suitable to execute digital transformation projects. This is expected to increase to over a million engineers trained in digital transformation technologies by 2020. Owing to this massive growth in demand, already today any entry-level and experienced professional with Digital Transformation Skills attracts 50% to 60% higher salaries than those with traditional IT skills.NIIT’s digiNxt programs empower graduates with future-skill-sets requirement of the industry to help create job-ready talent pool for the fast evolving global  Continue Reading",
+    "date" : ISODate("2021-02-23T16:02:15.007Z"),
+    "question" : "What are some best job oriented courses for Btech Information Technology students? ",
+    "source" : "Quora"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("603527270c817f0398f9f29a"),
+    "job_link" : "https://www.quora.com/How-much-salary-hike-should-I-ask-for-during-a-job-change-especially-in-the-information-technology-sector?-",
+    "answer" : "Include Related Answers Akash 7",
+    "date" : ISODate("2021-02-23T16:02:47.078Z"),
+    "question" : "How much salary hike should I ask for during a job change especially in the information technology sector? ",
+    "source" : "Quora"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("6035273e0c817f0398f9f2a6"),
+    "job_link" : "https://www.quora.com/Is-it-easy-to-find-an-information-technology-job-in-Mississauga?-",
+    "answer" : "It is not easy to find a job anywhere. Canadian companies virtually never hire someone on the spot. They check out multiple candidates most of the time. They are slow to hire and usually slow to let good people go. Even in a hot field like Information Technology in the Greater Toronto area, it is still not easy. Less difficult than most other fields but still not easy. Deroju Onifade",
+    "date" : ISODate("2021-02-23T16:03:10.779Z"),
+    "question" : "Is it easy to find an information technology job in Mississauga? ",
+    "source" : "Quora"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("603527590c817f0398f9f2ba"),
+    "job_link" : "https://www.quora.com/What-are-the-hot-jobs-in-IT-industry?-",
+    "answer" : "Include Related Answers  What are the hot jobs in IT industry?",
+    "date" : ISODate("2021-02-23T16:03:37.255Z"),
+    "question" : "What are the hot jobs in IT industry? ",
+    "source" : "Quora"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("603527880c817f0398f9f2da"),
+    "job_link" : "https://www.quora.com/Why-is-an-information-technology-student-difficult-to-get-a-job?-",
+    "answer" : "Include Related Answers  Why is an information technology student difficult to get a job?",
+    "date" : ISODate("2021-02-23T16:04:24.480Z"),
+    "question" : "Why is an information technology student difficult to get a job? ",
+    "source" : "Quora"
+}
+/* 1 */
+{
+    "_id" : ObjectId("603527b80c817f0398f9f2fc"),
+    "job_link" : "https://www.quora.com/What-should-I-do-after-completing-Bsc-in-Business-Information-technology-at-41-of-age-in-Switzerland?-",
+    "answer" : "There are the usual suspects:  LinkedIn (probably the best of the bunch if you are looking for a position outside of the contracting world)Indeed (Ein Klick. Alle Jobs. Indeed, aggregator of  jobs from other sites)Monster (past its prime)For more local job sites, try out:  JobUp (http://www.jobup.ch) (free, dominated by contracting houses more than non-contracting offers and maybe more focussed on Suisse Romande)Top Job Scout (Jobs Schweiz Stellen Stellenangebote Job CH)Experteer  (Stellenangebote, Headhunter und Jobs bei Experteer, not free)",
+    "date" : ISODate("2021-02-23T16:05:12.458Z"),
+    "question" : "What should I do after completing Bsc in Business Information technology at 41 of age in Switzerland? ",
+    "source" : "Quora"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("603527f20c817f0398f9f324"),
+    "job_link" : "https://www.quora.com/Which-is-the-highest-paying-and-easiest-job-in-Information-technology?-",
+    "answer" : "Include Related Answers Rai Sahab 1",
+    "date" : ISODate("2021-02-23T16:06:10.726Z"),
+    "question" : "Which is the highest paying and easiest job in Information technology? ",
+    "source" : "Quora"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("603528110c817f0398f9f334"),
+    "job_link" : "https://www.quora.com/What-are-the-job-prospects-in-the-information-technology-sector-in-Japan?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T16:06:41.322Z"),
+    "question" : "What are the job prospects in the information technology sector in Japan? ",
+    "source" : "Quora"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("603528250c817f0398f9f34a"),
+    "job_link" : "https://www.quora.com/Will-information-technology-and-robotics-eventually-take-away-many-jobs-in-America?-",
+    "answer" : "Not really. Take a simple example. 30 years ago it was observed that parking lots in the US were attended by the police, while most third-world and developing countries have plenty of people ready to handle the car parking. That was a sign of the lack of man-power. Information technology, robotic, and artificial intelligence will reduce the need to hire illegal workers and reduce the shortage of qualified man-power in the police department and in manufacturing industries in general. There will be robots capable of picking ripe watermelon, banana and cotton. Even today unemployment level has been hovering at 4%. In other word, the country has been at the full employment state. There is no need to bring the manufacturing jobs back to the US. Sure it will be an expensive way of manufacturing, but Continue Reading Not really. Take a simple example. 30 years ago it was observed that parking lots in the US were attended by the police, while most third-world and developing countries have plenty of people ready to handle the car parking. That was a sign of the lack of man-power. Information technology, robotic, and artificial intelligence will reduce the need to hire illegal workers and reduce the shortage of qualified man-power in the police department and in manufacturing industries in general. There will be robots capable of picking ripe watermelon, banana and cotton. Even today unemployment level has been hovering at 4%. In other word, the country has been at the full employment state. There is no need to bring the manufacturing jobs back to the US. Sure it will be an expensive way of manufacturing, but Continue Reading",
+    "date" : ISODate("2021-02-23T16:07:01.892Z"),
+    "question" : "Will information technology and robotics eventually take away many jobs in America? ",
+    "source" : "Quora"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("603528380c817f0398f9f354"),
+    "job_link" : "https://www.quora.com/What-jobs-combine-information-technology-with-computer-science?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T16:07:20.781Z"),
+    "question" : "What jobs combine information technology with computer science? ",
+    "source" : "Quora"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("603528530c817f0398f9f36f"),
+    "job_link" : "https://www.quora.com/How-easy-is-it-to-find-a-job-in-information-technology-in-Alaska?-",
+    "answer" : "Include Related Answers John McKay",
+    "date" : ISODate("2021-02-23T16:07:47.426Z"),
+    "question" : "How easy is it to find a job in information technology in Alaska? ",
+    "source" : "Quora"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("603528800c817f0398f9f38a"),
+    "job_link" : "https://www.quora.com/Which-job-is-in-demand-in-IT-currently?-",
+    "answer" : "Mariya Jackson The technology sector is hot and getting hotter, but some specific skill sets are needed most. Here are some of the specialized IT job titles that are expected to be in strong demand for the foreseeable future. As the tech industry continues to rise and many companies adapt to digital processes, jobs for IT professionals continue to become in-demand. Here are in-demand jobs in the field of tech. Here are 10 of the most in-demand tech jobs of 2019, according to recruiters and career site experts. #10. DevOps engineer #9. Scrum master #8. Cloud engineer #7. JavaScript developer #6. Java developer #5. Python developer #4. Data scientist #3. Full stack developer #2. AI/machine learning engineer #1. Cybersecurity engineer Brian Tallon",
+    "date" : ISODate("2021-02-23T16:08:32.653Z"),
+    "question" : "Which job is in demand in IT currently? ",
+    "source" : "Quora"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("603528e60c817f0398f9f3d8"),
+    "job_link" : "https://www.quora.com/What-are-information-technology-jobs-in-airports?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-23T16:10:14.319Z"),
+    "question" : "What are information technology jobs in airports? ",
+    "source" : "Quora"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("603528fb0c817f0398f9f3e6"),
+    "job_link" : "https://www.quora.com/Is-Information-Technology-a-secure-job-for-the-future?-",
+    "answer" : "Yes Of-course.. Only If a person working in IT field is willing to learn and adapt new technology. This is the field which is getting enhanced and expanded on the daily basis, after month there is a change.. you have a will to learn new things and apply in your skill then the person can be continued in the field. The main thing is to learn the new things that’s it. Thanks, Sanjeev Andy Alleyne",
+    "date" : ISODate("2021-02-23T16:10:35.004Z"),
+    "question" : "Is Information Technology a secure job for the future? ",
+    "source" : "Quora"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("603529140c817f0398f9f3ff"),
+    "job_link" : "https://www.quora.com/Is-the-IGNOU-certificate-of-information-technology-beneficial-for-a-government-job?-",
+    "answer" : "Subhendu Paul Neha Bharadiya",
+    "date" : ISODate("2021-02-23T16:11:00.992Z"),
+    "question" : "Is the IGNOU certificate of information technology beneficial for a government job? ",
+    "source" : "Quora"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("6035293f0c817f0398f9f413"),
+    "job_link" : "https://www.quora.com/Where-is-information-technology-heading-to-in-terms-of-job-opportunities?-",
+    "answer" : "As machine to machine devices,connected to internet, are constantly increasing,we are witnessing rise in volume of data. We are heading towards data mining,data crunching, analytics & automation. Daily repetitive jobs are going to perish.",
+    "date" : ISODate("2021-02-23T16:11:43.581Z"),
+    "question" : "Where is information technology heading to in terms of job opportunities? ",
+    "source" : "Quora"
+}

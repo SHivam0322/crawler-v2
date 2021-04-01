@@ -1,0 +1,24 @@
+{
+    "jobs": [
+        {
+            "job_type":"Writing",
+            "url": "https://www.flexjobs.com/jobs/writing-editing-journalism?page="
+        },
+        {
+            "job_type":"Online Content",
+            "url": "https://www.flexjobs.com/jobs/online-content?page="
+        },
+        {
+            "job_type":"Editing",
+            "url": "https://www.flexjobs.com/jobs/editing?page="
+        },
+        {
+            "job_type":"Online Blogging",
+            "url": "https://www.flexjobs.com/jobs/online-blogging?page="
+        },
+        {
+            "job_type":"Telecommuting Publishing",
+            "url": "https://www.flexjobs.com/jobs/telecommuting-Publishing-jobs?page="
+        }
+    ]
+}

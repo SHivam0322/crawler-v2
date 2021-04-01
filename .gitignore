@@ -1,0 +1,18 @@
+# env
+testEnv/
+
+# html
+*.html
+.env
+cnbc*
+test*
+medium.*
+dailyPolitical*
+node_modules
+.env
+createEsIndex*
+*.js
+package.*
+shine.*
+linkedin.*
+*.log

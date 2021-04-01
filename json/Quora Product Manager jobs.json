@@ -1,0 +1,1247 @@
+/* 1 */
+{
+    "_id" : ObjectId("6036882f0c817f0398faa948"),
+    "job_link" : "https://www.quora.com/What-is-a-day-in-the-life-of-a-Product-Manager-like?-",
+    "answer" : "Yariv Adan From “What is it like to be a Senior Product Manager at a large company like Google?” by Yariv Adan https://link.medium.com/1z6huF3ET2 10 observations from multiple angles: My favorite paradox: If it’s not impossible - it’s not worth doing — the challenges that very large and successful companies face are extremely complex. They operate in very complex ecosystems comprised of users, partners, and regulators, and have real impact on the lives of billions of people. The bar for success is ridiculously high, both in terms of users, as well as revenue. If your idea can’t grow to a billion users and/or xxB$ in the foreseeable future — then it doesn’t move the needle, and it’s unclear it’s worth doing. Unfortunately, the tools and resources that you have at your disposal, don’t scale up linearly tContinue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:09:03.087Z"),
+    "question" : "What is a day in the life of a Product Manager like? ",
+    "source" : "Quora"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("603688460c817f0398faa951"),
+    "job_link" : "https://www.quora.com/What-does-it-take-to-be-a-great-product-manager?-",
+    "answer" : "C. Serkan Baydin Well actually there is no recipe or formula for being a \"great\" product manager. As Ben Horowitz says that \"Hard things are hard because there are no easy answers or recipes.\" You can count Product Management as one of top ones in the hard things list. Here are the main requirements: 1- Communication: Well, daily life of a Product Manager (should) has so many communication with stakeholders continously. Stakeholders differ from daily needs and requirements. You must be talking with Engineering team to be alligned on the execution of your roadmap and always be there to clear their mind out of product questions. Similar to development, a Product Manager always must be alligned with business requirements and needs to satisfy output of your work is valuable. I can list many with Marketing, Sales Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:09:26.304Z"),
+    "question" : "What does it take to be a great product manager? ",
+    "source" : "Quora"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("603688620c817f0398faa965"),
+    "job_link" : "https://www.quora.com/What-are-the-essential-software-tools-and-applications-most-commonly-used-by-a-product-manager-of-web-products?-",
+    "answer" : "There is of course a long list for every product manager of web products about the essential software tools they better use immediately. I’ll go directly into the subject, and talk about the importance of retention and how you can solve it with a smooth user onboarding process. First of all, why retention is so important? Let me hit you with a fact, proven by Mixpanel: Fast-growing companies that are trying to reach product-market fit has 20% 8-week retention rate while the top SaaS companies have around 38%. The difference comes from the well-designed onboarding process in the first week. (source: Mixpanel’s article What’s A Good Retention Rate | Topics | Mixpanel) Not enough? Here’s another one, by Price Intelligently: 1% increase in customer acquisition (by increasing lead volume or conversionContinue Reading There is of course a long list for every product manager of web products about the essential software tools they better use immediately. I’ll go directly into the subject, and talk about the importance of retention and how you can solve it with a smooth user onboarding process. First of all, why retention is so important? Let me hit you with a fact, proven by Mixpanel: Fast-growing companies that are trying to reach product-market fit has 20% 8-week retention rate while the top SaaS companies have around 38%. The difference comes from the well-designed onboarding process in the first week. (source: Mixpanel’s article What’s A Good Retention Rate | Topics | Mixpanel) Not enough? Here’s another one, by Price Intelligently: 1% increase in customer acquisition (by increasing lead volume or conversionContinue Reading",
+    "date" : ISODate("2021-02-24T17:09:54.652Z"),
+    "question" : "What are the essential software tools and applications most commonly used by a product manager of web products? ",
+    "source" : "Quora"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("603688830c817f0398faa9d3"),
+    "job_link" : "https://www.quora.com/What-is-a-product-manager?-What-do-you-study-in-order-to-become-one?-What-skills-do-you-need?-",
+    "answer" : "Include Related Answers  What is a product manager? What do you study in order to become one? What skills do you need?",
+    "date" : ISODate("2021-02-24T17:10:27.357Z"),
+    "question" : "What is a product manager? What do you study in order to become one? What skills do you need? ",
+    "source" : "Quora"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6036889e0c817f0398faa9e1"),
+    "job_link" : "https://www.quora.com/How-do-you-get-into-a-product-management-role-with-no-prior-experience-as-a-PM?-",
+    "answer" : "Sundar Raghavan I can only tell you what my path was.  But I got a job in product management as a woman with no work experience in tech and a degree in...wait for it...sociology. I think it goes without saying that you have to nail the interviews.  Since there's a lot of stuff out there already about how to interview for a PM position, I'm going to focus on how I got the interviews.  'Cause that's the hardest part. 1.  Get an MBA.  The alumni network will be invaluable in every part of your job search, from finding out about jobs before they show up on job boards to job referrals to insider information on what the hiring manager is looking for.  Plus, having the mba will often get you past the initial resume screen with HR.   When I was in my first year I sent emails to a bunch of alums in the tech space tha Continue Reading",
+    "date" : ISODate("2021-02-24T17:10:54.512Z"),
+    "question" : "How do you get into a product management role with no prior experience as a PM? ",
+    "source" : "Quora"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("603688b40c817f0398faaa42"),
+    "job_link" : "https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs?-",
+    "answer" : "Michael Lu These are characteristics I look for in a product manager resume: Be Clear About Ownership - I want to hire product managers who \"initiate\", \"create\", \"own\" and \"operate\". I'm less inclined to hire product managers who \"work on\", \"were part of a team that\", etc. Be truthful. Don't say you owned something that you worked on within a team, but by all means if you did initiate, create or own a major product, feature or initiative say so clearly on your resume. For example: \"Overall responsibility for converting new (i.e. trial) users into active users, including strategy, project idea generation, and project prioritization.\"Describe Your Leadership Experience - Even if you're applying for an individual contributor role, state what leadership experience you've had. Mention number and duration Continue Reading",
+    "date" : ISODate("2021-02-24T17:11:16.434Z"),
+    "question" : "How do you write a good resume for product manager jobs? ",
+    "source" : "Quora"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("603688cc0c817f0398faaa51"),
+    "job_link" : "https://www.quora.com/How-do-I-get-my-first-job-as-a-product-manager?-",
+    "answer" : "Breaking into product management is tough. It’s highly competitive and largely undefined, so the requirements and expectations vary greatly from role to role. As a new PM, you’ll want to frame your past work experience on your resume to highlight all your leadership skills and emphasize your focus on customer-driven results and improvements. If you’ve been offered an interview despite not having prior PM experience, it means that they are looking for enthusiasm and willingness to learn, not decades of accomplishments in product management. Here are some steps you can take to increase your odds of getting a job as a product manager: Experience mock PM interviews. While you could rehearse your answers in front of a mirror or have your best friend ask them, a better way is to do a mock intervieContinue Reading Breaking into product management is tough. It’s highly competitive and largely undefined, so the requirements and expectations vary greatly from role to role. As a new PM, you’ll want to frame your past work experience on your resume to highlight all your leadership skills and emphasize your focus on customer-driven results and improvements. If you’ve been offered an interview despite not having prior PM experience, it means that they are looking for enthusiasm and willingness to learn, not decades of accomplishments in product management. Here are some steps you can take to increase your odds of getting a job as a product manager: Experience mock PM interviews. While you could rehearse your answers in front of a mirror or have your best friend ask them, a better way is to do a mock intervieContinue Reading",
+    "date" : ISODate("2021-02-24T17:11:40.077Z"),
+    "question" : "How do I get my first job as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("603688fb0c817f0398faaabc"),
+    "job_link" : "https://www.quora.com/What-are-the-best-tech-companies-to-work-for-as-a-product-manager?-",
+    "answer" : "Include Related Answers  Marc Bodnick",
+    "date" : ISODate("2021-02-24T17:12:27.808Z"),
+    "question" : "What are the best tech companies to work for as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("6036891c0c817f0398faaace"),
+    "job_link" : "https://www.quora.com/Which-is-the-most-important-skill-that-a-product-manager-should-have?-",
+    "answer" : "Project management means the complete management of the product that is delivered. It is basically a field in a business that manages the lifecycle of a product. From building marketing strategies to idea conception product management involves everything that you need to find in a product until it’s running actively. What are the important skills that a product manager should have? Top-notch oratory skills Product managers coordinate with both the External and Internal stakeholders throughout the product life cycle. It involves Keeping people informed, adjusting the language as per the customer that is from sales personnel to finance to marketing and customers. A product manager requires a higher level of expertise in various fields, due to this there are a lot of opportunities for product ma Continue Reading Project management means the complete management of the product that is delivered. It is basically a field in a business that manages the lifecycle of a product. From building marketing strategies to idea conception product management involves everything that you need to find in a product until it’s running actively. What are the important skills that a product manager should have? Top-notch oratory skills Product managers coordinate with both the External and Internal stakeholders throughout the product life cycle. It involves Keeping people informed, adjusting the language as per the customer that is from sales personnel to finance to marketing and customers. A product manager requires a higher level of expertise in various fields, due to this there are a lot of opportunities for product ma Continue Reading",
+    "date" : ISODate("2021-02-24T17:13:00.381Z"),
+    "question" : "Which is the most important skill that a product manager should have? ",
+    "source" : "Quora"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("603689330c817f0398faab33"),
+    "job_link" : "https://www.quora.com/What-are-the-duties-of-a-production-manager?-",
+    "answer" : "Production engineers work in the sphere of manufacturing, overseeing the production of goods in many industries at factories or plants. Their main job is to ensure that all products are manufactured with utmost efficiency and quality, according to planned protocols using the appropriate technology. Production engineers are responsible for both the big picture and the small details related to all aspects of production. Supervising The production engineer is charged with managing workers on the production line, ensuring they all work together as a team and follow protocols. The engineer's supervisory duties involve training the team of workers on safety and quality assurance protocols. To provide workers with the proper training, a production engineer usually must undergo his own management an Continue Reading Production engineers work in the sphere of manufacturing, overseeing the production of goods in many industries at factories or plants. Their main job is to ensure that all products are manufactured with utmost efficiency and quality, according to planned protocols using the appropriate technology. Production engineers are responsible for both the big picture and the small details related to all aspects of production. Supervising The production engineer is charged with managing workers on the production line, ensuring they all work together as a team and follow protocols. The engineer's supervisory duties involve training the team of workers on safety and quality assurance protocols. To provide workers with the proper training, a production engineer usually must undergo his own management an Continue Reading",
+    "date" : ISODate("2021-02-24T17:13:23.742Z"),
+    "question" : "What are the duties of a production manager? ",
+    "source" : "Quora"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("603689480c817f0398faab3f"),
+    "job_link" : "https://www.quora.com/How-did-Steve-Jobs-delegate-product-management?-How-did-he-hire-product-managers,-review-their-work,-keep-on-top-of-functionality-and-design,-and-relay-current-strategies-to-monetization-while-developing-products?-",
+    "answer" : "Sean Rose Following his intuition. Breaking conventions. Breaking hierarchies and letting the best ideas to win.  Hiring great people who wanted to create insanely great products. Forming great teams. Keeping the process simple. Being super honest.  Values and making great products for people mattered to him more than anything else. That was the focus. Everything else was secondary.  Direct insights from Steve Jobs:  In an Interview to Terry Gross (1996): \"Well, I don't know what corporate lifestyle is, I mean Apple was a corporation, we were very conscious of that, we were very driven to make money so that we can continue to invest in the things that we loved but it had a very few big differences to other corporate lifestyles that I had seen. The first one was, a real belief that an hierarchy of ideas t Continue Reading",
+    "date" : ISODate("2021-02-24T17:13:44.499Z"),
+    "question" : "How did Steve Jobs delegate product management? How did he hire product managers, review their work, keep on top of functionality and design, and relay current strategies to monetization while developing products? ",
+    "source" : "Quora"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("603689790c817f0398faac54"),
+    "job_link" : "https://www.quora.com/What-is-the-best-place-to-look-for-a-product-manager-job-at-a-startup-in-Silicon-Valley?-",
+    "answer" : "Carlos Gonzalez de Villaumbrosia, CEO of Product School - San Francisco, Silicon Valley, Los Angeles and New YorkAnswered 2 years ago · Author has 925 answers and 1.8M answer viewsWhat is the best place to look for a product manager job at a startup in Silicon Valley? Carlos Gonzalez de Villaumbrosia As the CEO of Product School, I facilitate courses taught by product managers at leading software companies like Facebook and Google, as well as scrappy startups that are making waves in their own niche industry. While there are important differences in how established Fortune 500 companies and startups seek and hire talent, there are also significant commonalities. Here a few hints based on my experience with both job-seeking product managers looking for their first PM position, as well as hiring managers at startups and corporates alike: Leverage Your Personal Network Hang on… what if you don’t have much of a personal network? Then the solution is simple: make networking a key priority. Do this both online and off. Join groups (like this one), ask and answer questions, be helpful, open and  Continue Reading",
+    "date" : ISODate("2021-02-24T17:14:33.538Z"),
+    "question" : "What is the best place to look for a product manager job at a startup in Silicon Valley? ",
+    "source" : "Quora"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("603689cd0c817f0398faace9"),
+    "job_link" : "https://www.quora.com/What-is-the-typical-salary-range-for-a-Product-Manager-job-in-India?-",
+    "answer" : "Raman Bamba /This answer is from a product manager at a top notch technology company. This answer is based largely on the first-hand experience and by working with/knowing product managers in different companies/sectors ./ Short answer Salary of a product manager varies with years/quality of experience/employer. It ranges from 10 LPA to 50 + LPA. Long answer -Typical salary of a product manager: It’s an open ended question. It’s very similar to asking “What’s the typical salary of a s/w engineer?” Well, just like a s/w engineer, salary of a PM also varies with the kind of work, amount of responsibilities, kind of company, etc, etc. One can be a PM straight after graduating from a top B-school (zero eng exp) but salary will not be high (15-20 LPA approx). One can be a PM after graduating from top B-school (2 Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:15:57.334Z"),
+    "question" : "What is the typical salary range for a Product Manager job in India? ",
+    "source" : "Quora"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("603689fe0c817f0398faad5b"),
+    "job_link" : "https://www.quora.com/Where-can-I-find-freelance-product-management-jobs?-",
+    "answer" : "Here’s the thing, most job posting websites will cost the employer money. This is the reason why most startups don’t post there unless they are already have some cashflow to throw at this, at which point they’re not really in your demographic. The best way to do what you’re looking for, (which is what I do, btw) is to source your client deal flow from local networks. And it all comes back down to networking and relationship building. Places I have managed to meet people that potentially became clients: Tech Meetups of various kindsInnovation Lab events hosted by larger orgs (i.e. in my area, most of the big events are hosted by large companies like Capital One and the like)Startup Pitch Events hosted by accelerator programs, incubator programs, and other startup oriented organizations. For exContinue Reading Here’s the thing, most job posting websites will cost the employer money. This is the reason why most startups don’t post there unless they are already have some cashflow to throw at this, at which point they’re not really in your demographic. The best way to do what you’re looking for, (which is what I do, btw) is to source your client deal flow from local networks. And it all comes back down to networking and relationship building. Places I have managed to meet people that potentially became clients: Tech Meetups of various kindsInnovation Lab events hosted by larger orgs (i.e. in my area, most of the big events are hosted by large companies like Capital One and the like)Startup Pitch Events hosted by accelerator programs, incubator programs, and other startup oriented organizations. For exContinue Reading",
+    "date" : ISODate("2021-02-24T17:16:46.358Z"),
+    "question" : "Where can I find freelance product management jobs? ",
+    "source" : "Quora"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("60368a230c817f0398faadc5"),
+    "job_link" : "https://www.quora.com/What-is-the-best-way-for-a-product-manager-to-get-a-Director-or-VP-level-job-in-product-management-at-a-startup-if-I-have-only-worked-at-large-web-companies?-",
+    "answer" : "Scott Dunlap, 5 start-ups, 5 liquidity events. All great fun!Updated 10 years ago · Featured on Forbes · Upvoted by Antone Johnson, Startup lawyer; VP & GC in-house; pre-seed through exit and Audra Eng, VP of PM at Atlassian · Author has 79 answers and 821.9K answer viewsWhat is the best way for a product manager to get a Director or VP-level job in product management at a startup if I have only worked at large web companies? Scott Dunlap Audra Eng",
+    "date" : ISODate("2021-02-24T17:17:23.112Z"),
+    "question" : "What is the best way for a product manager to get a Director or VP-level job in product management at a startup if I have only worked at large web companies? ",
+    "source" : "Quora"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("60368a390c817f0398faadd8"),
+    "job_link" : "https://www.quora.com/What-is-the-hardest-part-of-being-a-product-manager?-",
+    "answer" : "Some people tend to romanticize Product Management, but it’s important to stress that as much as it can be a blessing, it can be a curse at the same time! Don’t get me wrong, being a Product Manager is such a rewarding job but it is underestimated in how difficult it can be and that is why if you are interested in this career path you really have to put the work in! From my personal experience, it is an excellent career choice because you get to experience leadership, team building, top-notch communication, empathy building, success and so much more! However, in order to experience all of these positive things, you also need to experience the negatives that come with the job and more importantly, manage it well. Here are some of the worst aspects of being a Product Manager: Managing diverse sContinue Reading Some people tend to romanticize Product Management, but it’s important to stress that as much as it can be a blessing, it can be a curse at the same time! Don’t get me wrong, being a Product Manager is such a rewarding job but it is underestimated in how difficult it can be and that is why if you are interested in this career path you really have to put the work in! From my personal experience, it is an excellent career choice because you get to experience leadership, team building, top-notch communication, empathy building, success and so much more! However, in order to experience all of these positive things, you also need to experience the negatives that come with the job and more importantly, manage it well. Here are some of the worst aspects of being a Product Manager: Managing diverse sContinue Reading",
+    "date" : ISODate("2021-02-24T17:17:45.877Z"),
+    "question" : "What is the hardest part of being a product manager? ",
+    "source" : "Quora"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("60368a760c817f0398faae59"),
+    "job_link" : "https://www.quora.com/Is-product-management-a-dead-end-job?-",
+    "answer" : "Three ways to look at progression and growth of any role: Up, i.e. becoming more senior within a discipline, which usually means becoming an executiveAcross, i.e. doing something in an related/adjacent role, e.g. engineering, design, marketing, sales, BD, etcOut, i.e becoming your own boss / doing your own thing, since this is the only kind of work that is truly “uncapped” on upsideI would say product management is one of the few roles (particularly within tech) where there are clear and direct paths of growth in all three directions. Up — as others have noted, you can go from Associate PM to PM, Sr PM, Director of PM, VP of Product, CPO, and perhaps even CEO depending on the company, culture, and strategic value product management brings to the tableAcross — more often, people want to move Continue Reading Three ways to look at progression and growth of any role: Up, i.e. becoming more senior within a discipline, which usually means becoming an executiveAcross, i.e. doing something in an related/adjacent role, e.g. engineering, design, marketing, sales, BD, etcOut, i.e becoming your own boss / doing your own thing, since this is the only kind of work that is truly “uncapped” on upsideI would say product management is one of the few roles (particularly within tech) where there are clear and direct paths of growth in all three directions. Up — as others have noted, you can go from Associate PM to PM, Sr PM, Director of PM, VP of Product, CPO, and perhaps even CEO depending on the company, culture, and strategic value product management brings to the tableAcross — more often, people want to move Continue Reading",
+    "date" : ISODate("2021-02-24T17:18:46.685Z"),
+    "question" : "Is product management a dead-end job? ",
+    "source" : "Quora"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("60368a880c817f0398faaebc"),
+    "job_link" : "https://www.quora.com/What-are-the-job-responsibilities-of-a-Technical-Product-Manager?-",
+    "answer" : "Titles are a mess in product management; we do an annual survey and have seen people self-identify with over 200 titles performing the role of product management.  So technical product management does need some definition - your mileage may vary depending on what your company wants/needs. If you are familiar with the Pragmatic Marketing framework, we have defined all the activities that the role of product management needs to undertake.  That role is often times split into multiple people.  Technical Product Manager is a common split. There is a free e-book that we've published called \"The Strategic Role of Product Management,\" which will give you a lot more details, I'll link it below.  From page 24, about the Technical Product Manager, it says:  The technical product manager is responsible f Continue Reading Titles are a mess in product management; we do an annual survey and have seen people self-identify with over 200 titles performing the role of product management.  So technical product management does need some definition - your mileage may vary depending on what your company wants/needs. If you are familiar with the Pragmatic Marketing framework, we have defined all the activities that the role of product management needs to undertake.  That role is often times split into multiple people.  Technical Product Manager is a common split. There is a free e-book that we've published called \"The Strategic Role of Product Management,\" which will give you a lot more details, I'll link it below.  From page 24, about the Technical Product Manager, it says:  The technical product manager is responsible f Continue Reading",
+    "date" : ISODate("2021-02-24T17:19:04.473Z"),
+    "question" : "What are the job responsibilities of a Technical Product Manager? ",
+    "source" : "Quora"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("60368a9e0c817f0398faaec7"),
+    "job_link" : "https://www.quora.com/What-courses-on-Coursera-will-help-me-land-a-product-manager-job?-",
+    "answer" : "Some good resources to start The Complete Product Management Course - Udemyhttps://www.productmanagerhq.com/MediumEverything a product manager needs to know about analyticsThe Product Book: How to Become a Great Product Manager 1, Product School, Carlos González de Villaumbrosia, Josh Anon, eBook - Amazon.comAmazon.com: Cracking the PM Interview: How to Land a Product Manager Job in Technology (9780984782819): Gayle Laakmann McDowell, Jackie Bavaro: BooksGood luck! Hari Palappetty",
+    "date" : ISODate("2021-02-24T17:19:26.275Z"),
+    "question" : "What courses on Coursera will help me land a product manager job? ",
+    "source" : "Quora"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("60368ab10c817f0398faaed6"),
+    "job_link" : "https://www.quora.com/Why-is-it-so-difficult-to-get-a-job-as-a-product-manager?-",
+    "answer" : "Supply outweighs demand. Supply of product manager job seekers is growing because: It is a very well paid jobIt is a very exciting and attractive jobDemand of product managers is growing, but at a slower rate because: You don’t need as many of them at a company as you do other positionsThere is a heavy filtering of applicants because of desired experience or qualifications in a PMProduct Management is quickly growing to be one of the top jobs that MBAs seek. 7% of Harvard Business School graduates got a job as a product manager! See: Coveted Job Title for M.B.A.s: Product Manager It pays a very good salary. Depending on experience and location, it can range from $110,000 - $130,000. See: What’s a Typical Product Manager Salary? It is a job that requires experience. It is extremely rare to get a Continue Reading Supply outweighs demand. Supply of product manager job seekers is growing because: It is a very well paid jobIt is a very exciting and attractive jobDemand of product managers is growing, but at a slower rate because: You don’t need as many of them at a company as you do other positionsThere is a heavy filtering of applicants because of desired experience or qualifications in a PMProduct Management is quickly growing to be one of the top jobs that MBAs seek. 7% of Harvard Business School graduates got a job as a product manager! See: Coveted Job Title for M.B.A.s: Product Manager It pays a very good salary. Depending on experience and location, it can range from $110,000 - $130,000. See: What’s a Typical Product Manager Salary? It is a job that requires experience. It is extremely rare to get a Continue Reading",
+    "date" : ISODate("2021-02-24T17:19:45.855Z"),
+    "question" : "Why is it so difficult to get a job as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("60368af10c817f0398faaf5b"),
+    "job_link" : "https://www.quora.com/What-is-the-essential-role-of-a-product-manager?-",
+    "answer" : "The quintessential role of the Product Manager is ownership and accountability for his/her product(s). With companies and portfolios getting larger and wider and organizations more complex, it was recognized pretty early in the 20s of the last century that taking care of the company in its entirety leaves each product with its unique product market combination kind of parentless. To maximize success of a product it requires attention, love, ownership like a good MD has for the company. So the term Product Manager was coined by Procter & Gamble and I believe the first product to get this I individual love and attention was ‘Camay’ , the soap bar. It was recognized that each product needs an ambassador and promoter. But also somebody who ‘creates’ new products as well as kills them. Ownership  Continue Reading The quintessential role of the Product Manager is ownership and accountability for his/her product(s). With companies and portfolios getting larger and wider and organizations more complex, it was recognized pretty early in the 20s of the last century that taking care of the company in its entirety leaves each product with its unique product market combination kind of parentless. To maximize success of a product it requires attention, love, ownership like a good MD has for the company. So the term Product Manager was coined by Procter & Gamble and I believe the first product to get this I individual love and attention was ‘Camay’ , the soap bar. It was recognized that each product needs an ambassador and promoter. But also somebody who ‘creates’ new products as well as kills them. Ownership  Continue Reading",
+    "date" : ISODate("2021-02-24T17:20:49.247Z"),
+    "question" : "What is the essential role of a product manager? ",
+    "source" : "Quora"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("60368b070c817f0398faafc1"),
+    "job_link" : "https://www.quora.com/What-is-the-hardest-part-of-a-product-manager-job?-",
+    "answer" : "Abhishek Shukla, Product Manager & EvangelistAnswered 5 years agoWhat is the hardest part of a product manager job? Abhishek Shukla Key to success for a Product Manager is to have the trust, across teams. Engineering, sales, marketing, support; none of them work \"under\" the PM, no one reports to him. Yet, he is accountable and responsible for the fate of product, building which involves each of these teams. With this perspective, the hardest part of a Product Manager's job is to win the trust and confidence of folks across functional groups. That's not easy considering vastly differing background, job responsibilities and expectations of these teams. It is a continuous effort you need to make. It of course requires most effort when you join a new company or when you step into the role but you should capture every opportunity to be seen as the de-facto \"owner\" of your product thru your knowledge and passion. It is hard bec Continue Reading",
+    "date" : ISODate("2021-02-24T17:21:11.023Z"),
+    "question" : "What is the hardest part of a product manager job? ",
+    "source" : "Quora"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("60368b320c817f0398faafdb"),
+    "job_link" : "https://www.quora.com/Is-being-a-Product-Manager-a-satisfying-job?-",
+    "answer" : "A traveller was passing by three men working. He asked the first man what he was doing and he replied he was laying bricks. He asked the second man what he was doing and he replied he was building a wall. He asked the third man what he was doing and he replied he was building a cathedral. They all were doing the same thing. The first person saw it as a job. The second saw it as a career. The third saw it as a calling. Now product management is all about building a great product for your users while dealing with different people and departments. It’s more a position of leadership, than management. You need to have great leadership skills to be successful. If you can understand your user needs and deal with internal politics and peoples emotions, then yes. If you can see the big picture and thin Continue Reading A traveller was passing by three men working. He asked the first man what he was doing and he replied he was laying bricks. He asked the second man what he was doing and he replied he was building a wall. He asked the third man what he was doing and he replied he was building a cathedral. They all were doing the same thing. The first person saw it as a job. The second saw it as a career. The third saw it as a calling. Now product management is all about building a great product for your users while dealing with different people and departments. It’s more a position of leadership, than management. You need to have great leadership skills to be successful. If you can understand your user needs and deal with internal politics and peoples emotions, then yes. If you can see the big picture and thin Continue Reading",
+    "date" : ISODate("2021-02-24T17:21:54.476Z"),
+    "question" : "Is being a Product Manager a satisfying job? ",
+    "source" : "Quora"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("60368b480c817f0398fab042"),
+    "job_link" : "https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs-at-Google?-",
+    "answer" : "Here is what I’ve learned from coaching many clients who landed offers at Google: you need to start with what Google is looking for, and how Google looks for candidates. Google is a very unique company with a methodical and slow hiring process. When it hires someone, it assumes you’ll work out (i.e. you will not have performance issue). As a result, Google takes its time to find candidate. For most candidate, your best bet is to have Google internal referral to get an interview with Google. Google put a lot of emphasis on internal referral. Let’s say you have a friend at Google who is willing to put in a referral for you. What do you want him/her to say? These are the “punch line” about you — your resume and LinkedIn profile needs to support the punch lines your friend will use to describe y Continue Reading Here is what I’ve learned from coaching many clients who landed offers at Google: you need to start with what Google is looking for, and how Google looks for candidates. Google is a very unique company with a methodical and slow hiring process. When it hires someone, it assumes you’ll work out (i.e. you will not have performance issue). As a result, Google takes its time to find candidate. For most candidate, your best bet is to have Google internal referral to get an interview with Google. Google put a lot of emphasis on internal referral. Let’s say you have a friend at Google who is willing to put in a referral for you. What do you want him/her to say? These are the “punch line” about you — your resume and LinkedIn profile needs to support the punch lines your friend will use to describe y Continue Reading",
+    "date" : ISODate("2021-02-24T17:22:16.742Z"),
+    "question" : "How do you write a good resume for product manager jobs at Google? ",
+    "source" : "Quora"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("60368b5e0c817f0398fab056"),
+    "job_link" : "https://www.quora.com/What-do-you-enjoy-most-about-being-a-Product-Manager?-",
+    "answer" : "Transitioning to product management straight out of college has had its challenges[1]. While there definitely have been a lot of challenges, I love being a PM. Some of my favorite parts of my job include: (1) Thinking about and executing on a strategy to fulfill our mission One of the main reasons I decided to join Quora as a PM is that I’m passionate about our mission and I wanted to have an impact on the directions we take as a company and team towards that mission. I started using Quora towards the end of 2012, and really fell in love with the product the more that I used it. I’m excited that I get to spend my time thinking about how to make the product better as well as how we fit into the industry and the world. On a related note, I really like thinking about how my team’s work affects the Continue ReadingFootnotes[1] Elynn Lee's answer to In a product management role, is it challenging being younger than many of the other people on your team? Transitioning to product management straight out of college has had its challenges[1]. While there definitely have been a lot of challenges, I love being a PM. Some of my favorite parts of my job include: (1) Thinking about and executing on a strategy to fulfill our mission One of the main reasons I decided to join Quora as a PM is that I’m passionate about our mission and I wanted to have an impact on the directions we take as a company and team towards that mission. I started using Quora towards the end of 2012, and really fell in love with the product the more that I used it. I’m excited that I get to spend my time thinking about how to make the product better as well as how we fit into the industry and the world. On a related note, I really like thinking about how my team’s work affects the Continue ReadingFootnotes[1] Elynn Lee's answer to In a product management role, is it challenging being younger than many of the other people on your team?",
+    "date" : ISODate("2021-02-24T17:22:38.379Z"),
+    "question" : "What do you enjoy most about being a Product Manager? ",
+    "source" : "Quora"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("60368b730c817f0398fab064"),
+    "job_link" : "https://www.quora.com/What-is-the-best-way-to-find-remote-product-management-jobs?-",
+    "answer" : "Roadmap.com is not only full of thousands of active product managers from around the world, it's also a great place to find product management jobs. There is a \"Who is hiring\" thread every month. It's free to join and post — and the best part is that the jobs are posted by actual hiring managers (no recruiters or agencies). There are always a few remote jobs posted each month.  The forum is a very welcoming and responsive community. I've used it to ask questions about what books other PMs are reading, get advice on how to conduct user research, and learn from Sr. level PMs from top software companies. As you can see from the screenshot, we (Aha!) also use it for our own hiring purposes. We are a 100% remote company and post our PM openings every month. I hope this helps — good luck with your s Continue Reading Roadmap.com is not only full of thousands of active product managers from around the world, it's also a great place to find product management jobs. There is a \"Who is hiring\" thread every month. It's free to join and post — and the best part is that the jobs are posted by actual hiring managers (no recruiters or agencies). There are always a few remote jobs posted each month.  The forum is a very welcoming and responsive community. I've used it to ask questions about what books other PMs are reading, get advice on how to conduct user research, and learn from Sr. level PMs from top software companies. As you can see from the screenshot, we (Aha!) also use it for our own hiring purposes. We are a 100% remote company and post our PM openings every month. I hope this helps — good luck with your s Continue Reading",
+    "date" : ISODate("2021-02-24T17:22:59.777Z"),
+    "question" : "What is the best way to find remote product management jobs? ",
+    "source" : "Quora"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("60368b870c817f0398fab0c6"),
+    "job_link" : "https://www.quora.com/How-valuable-is-a-product-management-job-in-preparing-for-a-top-MBA-program?-",
+    "answer" : "I was an engineer who became a product manager and then went on to get an MBA at Wharton. There's a bit of ambiguity in your question: do you mean how valuable is a PM job in preparing for application to a top MBA program, or do you mean how valuable is it for success in a top MBA program? The former question has been answered well by others. One question that no one asked you is, how valuable compared to what? Are consulting and finance really options for you? Do you have the aptitude, interest, and opportunity to pursue jobs on those fields? If not, the question seems a bit moot. A PM job certainly puts you in better stead to apply for an MBA than a pure engineering background, but of course the more important issues are: do you want to be a PM, and will you be good at it? As for the the qu Continue Reading I was an engineer who became a product manager and then went on to get an MBA at Wharton. There's a bit of ambiguity in your question: do you mean how valuable is a PM job in preparing for application to a top MBA program, or do you mean how valuable is it for success in a top MBA program? The former question has been answered well by others. One question that no one asked you is, how valuable compared to what? Are consulting and finance really options for you? Do you have the aptitude, interest, and opportunity to pursue jobs on those fields? If not, the question seems a bit moot. A PM job certainly puts you in better stead to apply for an MBA than a pure engineering background, but of course the more important issues are: do you want to be a PM, and will you be good at it? As for the the qu Continue Reading",
+    "date" : ISODate("2021-02-24T17:23:19.552Z"),
+    "question" : "How valuable is a product management job in preparing for a top MBA program? ",
+    "source" : "Quora"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("60368b9b0c817f0398fab0d6"),
+    "job_link" : "https://www.quora.com/How-can-a-MBA-student-get-a-job-as-a-product-manager?-",
+    "answer" : "Yes it is quite possible and I know a few people that have done it.  Your first step should be to work with your career services department at your school.  From there it depends on the company, the industry, your school, what you know, who you know, and a little luck.  Most important is who you know: your friends, your teachers, your family, your family's friends, anyone. Your professional network is paramount to getting introductions to the companies you want to interview with.  This is critical because your experience level will make it difficult for your resume to bubble up on its own from a internet submission or job site. And the warmer the introduction, the more likely the company is to bend policy and take you with less experience.In general, the larger companies will be more open to Continue Reading Yes it is quite possible and I know a few people that have done it.  Your first step should be to work with your career services department at your school.  From there it depends on the company, the industry, your school, what you know, who you know, and a little luck.  Most important is who you know: your friends, your teachers, your family, your family's friends, anyone. Your professional network is paramount to getting introductions to the companies you want to interview with.  This is critical because your experience level will make it difficult for your resume to bubble up on its own from a internet submission or job site. And the warmer the introduction, the more likely the company is to bend policy and take you with less experience.In general, the larger companies will be more open to Continue Reading",
+    "date" : ISODate("2021-02-24T17:23:39.200Z"),
+    "question" : "How can a MBA student get a job as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("60368bb20c817f0398fab143"),
+    "job_link" : "https://www.quora.com/How-do-I-get-a-product-manager-job-in-Google?-",
+    "answer" : "You need to accomplish two things to get a PM job at Google. Impress the recruiter with your resume to have them call you. There are a few ways to achieve this: have a great PM career history (e.g. worked at Airbnb as a PM), show PM skills (e.g. include links to side projects you’ve worked on to build your own product), internal referral (e.g. have a Google PM friend refer you)Impress the job interviewers. This is the hard one. You will go through various interviews (in phone and in person) and will be asked different questions about product design, product improvement, estimation, metrics, problem solving, technical, strategy, and product launch. You will need to practice answering these types of questions to be able to do well in the interviews. I have gathered a list of product manager iContinue Reading You need to accomplish two things to get a PM job at Google. Impress the recruiter with your resume to have them call you. There are a few ways to achieve this: have a great PM career history (e.g. worked at Airbnb as a PM), show PM skills (e.g. include links to side projects you’ve worked on to build your own product), internal referral (e.g. have a Google PM friend refer you)Impress the job interviewers. This is the hard one. You will go through various interviews (in phone and in person) and will be asked different questions about product design, product improvement, estimation, metrics, problem solving, technical, strategy, and product launch. You will need to practice answering these types of questions to be able to do well in the interviews. I have gathered a list of product manager iContinue Reading",
+    "date" : ISODate("2021-02-24T17:24:02.104Z"),
+    "question" : "How do I get a product manager job in Google? ",
+    "source" : "Quora"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("60368bc90c817f0398fab155"),
+    "job_link" : "https://www.quora.com/Is-being-a-product-manager-stressful?-",
+    "answer" : "Include Related Answers  Is being a product manager stressful?",
+    "date" : ISODate("2021-02-24T17:24:25.403Z"),
+    "question" : "Is being a product manager stressful? ",
+    "source" : "Quora"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("60368bdc0c817f0398fab175"),
+    "job_link" : "https://www.quora.com/What-is-the-scope-and-future-of-product-management-jobs-in-India?-",
+    "answer" : "I would say it's immense. India has traditionally been an excellent IT services exporter, but software product development has not been one of the strong points of the industry. Within the last decade, however, a few Indian product companies have come up and performed quite well. Most of them are in the e-commerce space, such as Flikpart and MakeMyTrip, but there are others like Directi which are into core software products. The list is on the rise, with a lot of up-and-coming startups such as Housing.com opting to get into products rather than services. Product management in the context of Indian firms is largely a derivative of similar roles in Silicon Valley. As such, it's a generalist role and usually involves at least one of four specialised skills - product design, marketing, business  Continue Reading I would say it's immense. India has traditionally been an excellent IT services exporter, but software product development has not been one of the strong points of the industry. Within the last decade, however, a few Indian product companies have come up and performed quite well. Most of them are in the e-commerce space, such as Flikpart and MakeMyTrip, but there are others like Directi which are into core software products. The list is on the rise, with a lot of up-and-coming startups such as Housing.com opting to get into products rather than services. Product management in the context of Indian firms is largely a derivative of similar roles in Silicon Valley. As such, it's a generalist role and usually involves at least one of four specialised skills - product design, marketing, business  Continue Reading",
+    "date" : ISODate("2021-02-24T17:24:44.360Z"),
+    "question" : "What is the scope and future of product management jobs in India? ",
+    "source" : "Quora"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("60368bf20c817f0398fab1eb"),
+    "job_link" : "https://www.quora.com/Are-product-managers-at-Google-generally-happy-about-their-job?-",
+    "answer" : "Dave Orr I could echo the other respondents, and maybe I should: I love my job at Google, best job I've had. It's interesting, fully engaging, challenging, intellectually stimulating, and the people are fantastic. Plus it pays pretty well and the perks are great. (One caveat: Google is a pretty large and heterogeneous place, so my experience in Google Research is probably pretty different than many PM's.) But that doesn't answer the question. Here's a more general answer from Glassdoor:  Google Product manager Reviews 4.3 stars, 97% would recommend to a friend, 88% approve of the CEO, n=89. Compare that to all full time employees: 4.3 stars, 93% would recommend to a friend, 96% approve of the CEO, n=2858. I'm not sure what to make of the difference in CEO approval rating, except maybe just some sample si Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:25:06.547Z"),
+    "question" : "Are product managers at Google generally happy about their job? ",
+    "source" : "Quora"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("60368c060c817f0398fab202"),
+    "job_link" : "https://www.quora.com/How-do-I-get-a-Product-Management-job-at-Facebook?-",
+    "answer" : "Include Related Answers  How do I get a Product Management job at Facebook?",
+    "date" : ISODate("2021-02-24T17:25:26.581Z"),
+    "question" : "How do I get a Product Management job at Facebook? ",
+    "source" : "Quora"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("60368c2f0c817f0398fab28d"),
+    "job_link" : "https://www.quora.com/What-kind-of-politics-is-involved-in-the-job-of-a-product-manager?-",
+    "answer" : "Rich Mironov, 25+ years in product & exec roles (VP Product Mgmt, VP Marketing, startup CEO), long-running Product Bytes bl…Answered 6 years ago · Author has 210 answers and 819.5K answer viewsWhat kind of politics is involved in the job of a product manager? Rich Mironov 'Politics' has a negative spin to it.  Let's rephrase slightly: Given that no other groups/functions actually report to product management, what are key influencing approaches or styles? [1] Stakeholders and customers (especially if you have a B2B sales force) want what they want, and won't be satisfied by your explanations about other things being more important. Your sales teams get paid to close THEIR deals (not to support the company's overall strategy) and your customers have specific issues or problems they want to address.  Your rational explanations about why something else is #1 on the backlog don't end the discussion. A large portion of sales teams/customers will escalate their issue when they aren't your top priority.  So a good influencing skill (aka politics) is making su Continue Reading",
+    "date" : ISODate("2021-02-24T17:26:07.217Z"),
+    "question" : "What kind of politics is involved in the job of a product manager? ",
+    "source" : "Quora"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("60368caa0c817f0398fab3b7"),
+    "job_link" : "https://www.quora.com/Can-I-get-a-job-as-a-product-manager-at-Google-without-a-technical-background?-",
+    "answer" : "Yes - not all Product Managers need to have technical backgrounds. But, you need to have sufficient understanding of the technological processes you’ll be working with so that you can effectively manage your engineering teams. Google does not only hire people with an engineering degree. In fact, a degree of any kind is no longer necessary to work at the search engine giant. You will need to have acquired a sufficient amount of technology ability throughout your career, through your experience as a leader of teams that include coders, for example. More advice on getting a PM job without a technical background here: Carlos Gonzalez de Villaumbrosia's answer to I am working as a Technical Product Manager but I don't have an Engineering degree because of this many employers are not considering my Continue Reading Yes - not all Product Managers need to have technical backgrounds. But, you need to have sufficient understanding of the technological processes you’ll be working with so that you can effectively manage your engineering teams. Google does not only hire people with an engineering degree. In fact, a degree of any kind is no longer necessary to work at the search engine giant. You will need to have acquired a sufficient amount of technology ability throughout your career, through your experience as a leader of teams that include coders, for example. More advice on getting a PM job without a technical background here: Carlos Gonzalez de Villaumbrosia's answer to I am working as a Technical Product Manager but I don't have an Engineering degree because of this many employers are not considering my Continue Reading",
+    "date" : ISODate("2021-02-24T17:28:10.687Z"),
+    "question" : "Can I get a job as a product manager at Google without a technical background? ",
+    "source" : "Quora"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("60368cd40c817f0398fab3e4"),
+    "job_link" : "https://www.quora.com/How-do-product-marketing-manager-jobs-at-Facebook-compare-to-equivalent-jobs-at-Google?-",
+    "answer" : "Include Related Answers  How do product marketing manager jobs at Facebook compare to equivalent jobs at Google?",
+    "date" : ISODate("2021-02-24T17:28:52.860Z"),
+    "question" : "How do product marketing manager jobs at Facebook compare to equivalent jobs at Google? ",
+    "source" : "Quora"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("60368d0d0c817f0398fab479"),
+    "job_link" : "https://www.quora.com/How-difficult-is-it-to-get-a-job-in-Product-Management-at-Google?-",
+    "answer" : "Carlos Gonzalez de Villaumbrosia Considering the relative fame and global recognition that Google has, there is always going to be a high level of competition for getting a Product Management job. That being said, here are some initial traits that you should work on solidifying before you even attempt to apply to the role: Leadership: PMs at Google are expected to lead without authority. What that means is that there are certain expectations that revolve around bringing stakeholders together, keep executives informed, and highlight issues followed by resolving them.Passion for technology: Following the latest trends and being up-to-date on the technology news is a must for Google Product Managers.Customer-oriented: Google wants PMs who are willing to go well beyond the extra mile to provide delightful solutions for customerContinue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:29:49.954Z"),
+    "question" : "How difficult is it to get a job in Product Management at Google? ",
+    "source" : "Quora"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("60368d2b0c817f0398fab4e9"),
+    "job_link" : "https://www.quora.com/Is-the-job-market-for-product-managers-saturated?-",
+    "answer" : "Include Related Answers  Is the job market for product managers saturated?",
+    "date" : ISODate("2021-02-24T17:30:19.731Z"),
+    "question" : "Is the job market for product managers saturated? ",
+    "source" : "Quora"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("60368d420c817f0398fab506"),
+    "job_link" : "https://www.quora.com/How-do-I-get-a-job-in-product-management-at-Amazon?-",
+    "answer" : "Here is a more step by step way to get hired as a APM in startup, even if you are a fresher. Create account on IIMJobs and AngelList.Subscribe to their emails for the role of Product Manager (I get mails from them every week for new roles)Read PM interview books like “Decode and Conquer” and “Cracking the PM interview”. Get a good grip on cases and frequent questions.Every single day, get up and check most voted products on Product Hunt and read about them. Make an account on Twitter and share products you like with the world (even if your Twitter account has 10 followers). Tag the makers of these products on Twitter when you share their product.Prepare a kick-ass resume. Get it reviewed by someone who is already a Product Manager.When you see an APM vacancy on AngelList or IIMJobs, make a Continue Reading Here is a more step by step way to get hired as a APM in startup, even if you are a fresher. Create account on IIMJobs and AngelList.Subscribe to their emails for the role of Product Manager (I get mails from them every week for new roles)Read PM interview books like “Decode and Conquer” and “Cracking the PM interview”. Get a good grip on cases and frequent questions.Every single day, get up and check most voted products on Product Hunt and read about them. Make an account on Twitter and share products you like with the world (even if your Twitter account has 10 followers). Tag the makers of these products on Twitter when you share their product.Prepare a kick-ass resume. Get it reviewed by someone who is already a Product Manager.When you see an APM vacancy on AngelList or IIMJobs, make a Continue Reading",
+    "date" : ISODate("2021-02-24T17:30:42.797Z"),
+    "question" : "How do I get a job in product management at Amazon? ",
+    "source" : "Quora"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("60368d570c817f0398fab574"),
+    "job_link" : "https://www.quora.com/Why-is-product-management-one-of-the-10-most-hated-jobs-according-to-Forbes?-",
+    "answer" : "The underlying reality of Product Management is influence without authority. You work closely with many teams that do not report to you, requiring them to do or to do without things for reasons that — despite your best efforts — may not be clear to them. Folks that are used to, or expecting, to dictate behaviors and outcomes will definitely struggle in that capacity. I think that when people evaluate a co-worker they frequently ask themselves “how hard would it be for me to do that person’s job?” For some jobs (e.g. finance, law) it’s easy to recognize that you wouldn’t want to do it even if you had the required knowledge, which you don’t. But when the job is fundamentally to gather and analyze comprehensive data and then make critical strategic decisions, it is all too easy to think “I can Continue Reading The underlying reality of Product Management is influence without authority. You work closely with many teams that do not report to you, requiring them to do or to do without things for reasons that — despite your best efforts — may not be clear to them. Folks that are used to, or expecting, to dictate behaviors and outcomes will definitely struggle in that capacity. I think that when people evaluate a co-worker they frequently ask themselves “how hard would it be for me to do that person’s job?” For some jobs (e.g. finance, law) it’s easy to recognize that you wouldn’t want to do it even if you had the required knowledge, which you don’t. But when the job is fundamentally to gather and analyze comprehensive data and then make critical strategic decisions, it is all too easy to think “I can Continue Reading",
+    "date" : ISODate("2021-02-24T17:31:03.283Z"),
+    "question" : "Why is product management one of the 10 most hated jobs according to Forbes? ",
+    "source" : "Quora"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("60368d700c817f0398fab588"),
+    "job_link" : "https://www.quora.com/Why-is-product-management-such-a-hot-job-these-days?-",
+    "answer" : "I totally agree with this statement! Product Management has actually been ranked as the 4th best job according to Glassdoor 2020! PM is a hot job for the following reasons: Technology and Digital Transformation are accelerating at an unimaginable rate. It has changed the way we communicate, business practices, and ultimately what consumers want and need. This opens a space for Product Managers to deliver products that accommodate to what consumers want in the context of technology and a digital era. In such a competitive market, technology is constantly challenging how businesses meet customers' needs. They want products that can actually add value to their lives. This automatically positions Product Managers in the spotlight and gives them the opportunity to use data, design, and engineeriContinue Reading I totally agree with this statement! Product Management has actually been ranked as the 4th best job according to Glassdoor 2020! PM is a hot job for the following reasons: Technology and Digital Transformation are accelerating at an unimaginable rate. It has changed the way we communicate, business practices, and ultimately what consumers want and need. This opens a space for Product Managers to deliver products that accommodate to what consumers want in the context of technology and a digital era. In such a competitive market, technology is constantly challenging how businesses meet customers' needs. They want products that can actually add value to their lives. This automatically positions Product Managers in the spotlight and gives them the opportunity to use data, design, and engineeriContinue Reading",
+    "date" : ISODate("2021-02-24T17:31:28.442Z"),
+    "question" : "Why is product management such a hot job these days? ",
+    "source" : "Quora"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("60368d870c817f0398fab5a3"),
+    "job_link" : "https://www.quora.com/Would-it-be-wiser-to-find-a-job-in-a-startup-or-a-large-company-with-an-established-product-management-function-as-a-first-time-product-manager?-",
+    "answer" : "Brian de Haaff A lot of folks will ask additional questions to understand your question or suggest that it depends on what big company you go to. I think all of this is general nonsense.  The answer is easy. Go work at a bigger company. Let me explain why. I tell people this all the time.  #1 There are more people at bigger companies and you are much more likely to find someone you can learn something from. Your job is to work hard and grow your skills when you first start working.  #2 You are much more likely going to work on a product that matters. Your chance of product success at a startup is close to 0. #3 Even if the job sucks (at the bigger company) and you want to leave in 2-3 years, you have a resume building block and likely will have been involved in some high profile projects that you can claim som Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:31:51.051Z"),
+    "question" : "Would it be wiser to find a job in a startup or a large company with an established product management function as a first time product manager? ",
+    "source" : "Quora"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("60368db90c817f0398fab631"),
+    "job_link" : "https://www.quora.com/What-is-the-job-of-Product-Manager-at-PayTM-like?-",
+    "answer" : "Include Related Answers  Who is a Product Manager and What do they do?",
+    "date" : ISODate("2021-02-24T17:32:41.326Z"),
+    "question" : "What is the job of Product Manager at PayTM like? ",
+    "source" : "Quora"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("60368dcf0c817f0398fab6a4"),
+    "job_link" : "https://www.quora.com/Is-product-manager-job-secure?-",
+    "answer" : "Carlos Gonzalez de Villaumbrosia I think it all depends. There are a variety of factors that can determine weather the particular Product Manager job is secure. Here are some of the most common ones that will dictate job security: size and stage of companyPolitical nature of the companyNumber of Product Managers existing in the companySkill level as a Product ManagerThe simple fact of the matter is that if you are skilled as a Product Manager — or whatever position you have — your job becomes more secure. In other words, being irreplaceable by producing results is the best way to eliminate turnover in your company. The best way to do this is by gaining as much knowledge as possible in order to create impactful strategies and solutions. Once you do that, then you are locked in. Murali Erraguntala",
+    "date" : ISODate("2021-02-24T17:33:03.553Z"),
+    "question" : "Is product manager job secure? ",
+    "source" : "Quora"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("60368dfd0c817f0398fab6cd"),
+    "job_link" : "https://www.quora.com/How-to-get-a-job-as-Product-Manager-in-a-tech-company-in-India?-",
+    "answer" : "Include Related Answers  How to get a job as Product Manager in a tech company in India?",
+    "date" : ISODate("2021-02-24T17:33:49.462Z"),
+    "question" : "How to get a job as Product Manager in a tech company in India? ",
+    "source" : "Quora"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("60368e1d0c817f0398fab741"),
+    "job_link" : "https://www.quora.com/How-do-product-managers-find-the-perfect-job?-",
+    "answer" : "Great question! Let’s assume that you have taken the proper educational route to become a PM, here are the best ways to find the ideal job in product: Stay up to date with our Job PortalNetwork, collaborate, and discuss opportunities on our Slack ChannelMaster the art of the Product Management InterviewCreate the perfect PM PortfolioIf you place a high level of focus on these areas, you will exponentially increase your chances of finding your ideal role in Product Management. Best of luck!",
+    "date" : ISODate("2021-02-24T17:34:21.507Z"),
+    "question" : "How do product managers find the perfect job? ",
+    "source" : "Quora"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("60368e5b0c817f0398fab7f1"),
+    "job_link" : "https://www.quora.com/What-is-my-best-option-for-a-major-to-pursue-for-a-good-job-in-product-management?-",
+    "answer" : "Include Related Answers  What is my best option for a major to pursue for a good job in product management?",
+    "date" : ISODate("2021-02-24T17:35:23.271Z"),
+    "question" : "What is my best option for a major to pursue for a good job in product management? ",
+    "source" : "Quora"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("60368e6d0c817f0398fab806"),
+    "job_link" : "https://www.quora.com/What-are-the-oppurtunities-for-a-product-manager-in-India?-",
+    "answer" : "Hari Palappetty Shanmuga Sundaram",
+    "date" : ISODate("2021-02-24T17:35:41.347Z"),
+    "question" : "What are the oppurtunities for a product manager in India? ",
+    "source" : "Quora"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("60368e940c817f0398fab88f"),
+    "job_link" : "https://www.quora.com/Why-might-Product-Managers-experience-low-job-satisfaction?-",
+    "answer" : "Some aspects I have experienced or that I can imagine that can lead to this perception (even without a potential bias as hinted at in @Ryan Casey's and @Mike Basilyan's responses): serious impediments caused by bad system design (built in a hurry early on)unclear boundary of the product role within the companydifferences in the understanding of the product rolequality/capabilities of the teamdevelopment of the company overall (too slow to grow product; too fast and not enough new hires to keep up)too many attempts to take influence on product decisions by management/other roles  (kind of the PM job to avoid this, though)especially in large teams (multiple PMs): lack of alignment about the product vision and various philosophies (work ethic, UX, design, project planning, ...)",
+    "date" : ISODate("2021-02-24T17:36:20.593Z"),
+    "question" : "Why might Product Managers experience low job satisfaction? ",
+    "source" : "Quora"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("60368eb10c817f0398fab8b9"),
+    "job_link" : "https://www.quora.com/What-are-product-management-jobs?-",
+    "answer" : "Include Related Answers Carlos Gonzalez de Villaumbrosia 29",
+    "date" : ISODate("2021-02-24T17:36:49.399Z"),
+    "question" : "What are product management jobs? ",
+    "source" : "Quora"
+}
+/* 1 */
+{
+    "_id" : ObjectId("60368ec80c817f0398fab926"),
+    "job_link" : "https://www.quora.com/What-does-a-day-in-the-life-of-product-manager-looks-like-in-your-current-job?-",
+    "answer" : "The role of a product manager tends to vary heavily depending on product lifecycle and stage of the company. Due to this variability, there is a wide range of day-to-day activities, but ultimately a product manager is still responsible for doing whatever it takes to collaborate with multiple teams and move different conversations towards closure.  I write about this on http://www.productmanagerhq.com but to provide an example of what I do on a daily basis, below is an agenda of a typical day: 8:30AM: Wake up and check major tech blogs (I work as a PM in the gaming industry) and general news to make sure I’m up to date with the competition and market. Check my personal Trello and add/edit any items I need to complete for the day. If I have extra time, I’ll try to complete at least 20-30 minut Continue Reading The role of a product manager tends to vary heavily depending on product lifecycle and stage of the company. Due to this variability, there is a wide range of day-to-day activities, but ultimately a product manager is still responsible for doing whatever it takes to collaborate with multiple teams and move different conversations towards closure.  I write about this on http://www.productmanagerhq.com but to provide an example of what I do on a daily basis, below is an agenda of a typical day: 8:30AM: Wake up and check major tech blogs (I work as a PM in the gaming industry) and general news to make sure I’m up to date with the competition and market. Check my personal Trello and add/edit any items I need to complete for the day. If I have extra time, I’ll try to complete at least 20-30 minut Continue Reading",
+    "date" : ISODate("2021-02-24T17:37:12.091Z"),
+    "question" : "What does a day in the life of product manager looks like in your current job? ",
+    "source" : "Quora"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("60368ee40c817f0398fab949"),
+    "job_link" : "https://www.quora.com/How-do-I-find-a-job-in-product-management?-",
+    "answer" : "If you’re thinking about kickstarting a career in product management, you need to accomplish two very important things to get the job. Start with your resume. Let your resume speak for you. A good resume leaves a lasting impression to the recruiters. There are a few effective ways to achieve this:have a great PM career history (e.g. worked at Airbnb as a PM);show your PM skills (e.g. include links to side projects you’ve worked on to build your own product). One of the best ways to demonstrate your interest in product management is to work on a side project that gives you the experience that expensive product management courses can’t.internal referral (e.g. have a PM friend refer you). If you know anyone who is affiliated with the company, ask them if they can put in a good word for you.ImpContinue Reading If you’re thinking about kickstarting a career in product management, you need to accomplish two very important things to get the job. Start with your resume. Let your resume speak for you. A good resume leaves a lasting impression to the recruiters. There are a few effective ways to achieve this:have a great PM career history (e.g. worked at Airbnb as a PM);show your PM skills (e.g. include links to side projects you’ve worked on to build your own product). One of the best ways to demonstrate your interest in product management is to work on a side project that gives you the experience that expensive product management courses can’t.internal referral (e.g. have a PM friend refer you). If you know anyone who is affiliated with the company, ask them if they can put in a good word for you.ImpContinue Reading",
+    "date" : ISODate("2021-02-24T17:37:40.404Z"),
+    "question" : "How do I find a job in product management? ",
+    "source" : "Quora"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("60368f0d0c817f0398fab9cb"),
+    "job_link" : "https://www.quora.com/What-are-the-top-things-product-managers-look-for-in-a-job-opportunity?-",
+    "answer" : "Include Related Answers  What are the top things product managers look for in a job opportunity?",
+    "date" : ISODate("2021-02-24T17:38:21.349Z"),
+    "question" : "What are the top things product managers look for in a job opportunity? ",
+    "source" : "Quora"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("60368f320c817f0398faba01"),
+    "job_link" : "https://www.quora.com/How-do-I-prepare-for-Associate-Product-Manager-job-at-Flipkart?-",
+    "answer" : "Short Answer : Study Data Structures and Algorithms. Disclaimer : Do you really want to join Flipkart? I guess you don’t know what happened with 2016 campus hires. The joining date of the campus hires is postponed by 6 months. The earlier joining date was in June and now it has been postponed to December. The hires were informed about this shift in May just a month before joining date. Flipkart created a very bad scenario for all the 2016 hires. I won’t be surprised if they get a ban in placement sessions of Tier 1, 2 engineering colleges.",
+    "date" : ISODate("2021-02-24T17:38:58.386Z"),
+    "question" : "How do I prepare for Associate Product Manager job at Flipkart? ",
+    "source" : "Quora"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("60368f4b0c817f0398faba6c"),
+    "job_link" : "https://www.quora.com/How-do-I-apply-for-a-product-manager-jobs-with-program-management-experiences?-",
+    "answer" : "Becky Flint I’ve been product manager and program manager in different companies, and led product management teams and program management teams. There are definitely many similarity in these 2 roles. If a product manager is lucky enough to have a good program manager as a partner, she may focus primarily on defining product vision, priority, and managing external affairs such as customers, competitors, sales, marketing, support teams, while Program manager will help her to plan and execute the product vision. Many companies have no dedicated Program Manager. Product Managers end up to be both product manager and program manager, which reduces a good amount of time interacting with customers and markets to take care of internal affairs around execution. While it’s relatively easy to transition from a prog Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:39:23.619Z"),
+    "question" : "How do I apply for a product manager jobs with program management experiences? ",
+    "source" : "Quora"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("60368f740c817f0398fabaf8"),
+    "job_link" : "https://www.quora.com/Is-a-PMP-certificate-worth-it-for-job-seeking-product-managers?-",
+    "answer" : "Include Related Answers  Is a PMP certificate worth it for job seeking product managers?",
+    "date" : ISODate("2021-02-24T17:40:04.558Z"),
+    "question" : "Is a PMP certificate worth it for job seeking product managers? ",
+    "source" : "Quora"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("60368fb00c817f0398fabb92"),
+    "job_link" : "https://www.quora.com/Should-I-get-a-finance-job-from-product-management-to-become-a-VC?-",
+    "answer" : "I mostly agree with Laura's answer: the finance job may make you look a little more like the typical associate candidate, but if your long-term goal is VC it's probably not the way to go. A review of VC partners done a few years back found that only about 25% had a background in finance. In general, I would advise staying in the tech space instead of jumping for the finance job. Particularly for early stage venture, traditional finance skills just aren't all that relevant. At least not in comparison to general business judgement, people skills, and network. Tactically, most VC jobs are earned through networking, which may be easier to do from the tech community than from an unrelated finance field.",
+    "date" : ISODate("2021-02-24T17:41:04.379Z"),
+    "question" : "Should I get a finance job from product management to become a VC? ",
+    "source" : "Quora"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("60368fc90c817f0398fabba9"),
+    "job_link" : "https://www.quora.com/How-do-I-get-a-high-paying-product-management-job-abroad?-",
+    "answer" : "Shoieb Yunus Vaibhav Bhatnagar",
+    "date" : ISODate("2021-02-24T17:41:29.904Z"),
+    "question" : "How do I get a high paying product management job abroad? ",
+    "source" : "Quora"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("60368fe50c817f0398fabbcd"),
+    "job_link" : "https://www.quora.com/How-do-product-managers-practice-their-profession-outside-of-their-day-job?-",
+    "answer" : "I think this is a great question that I feel really passionately about. For my life personally, my answer is to treat yourself as the product. You can take these skills that you have and use them to become the best person you can be - you owe it to yourself to live out your potential. For me the application of this is to consciously and consistently try to add value in the most efficient way to your life or skillset in classic lean/agile fashion. That means knowing what you want to achieve, either in your career or personal life, identifying the high level steps towards these, breaking them down into mini steps and then achieving them. Do you see what I’m doing there? I’ve created a product roadmap, with user stories and everything. On myself. Why is this so amazing? Well, putting aside the  Continue Reading I think this is a great question that I feel really passionately about. For my life personally, my answer is to treat yourself as the product. You can take these skills that you have and use them to become the best person you can be - you owe it to yourself to live out your potential. For me the application of this is to consciously and consistently try to add value in the most efficient way to your life or skillset in classic lean/agile fashion. That means knowing what you want to achieve, either in your career or personal life, identifying the high level steps towards these, breaking them down into mini steps and then achieving them. Do you see what I’m doing there? I’ve created a product roadmap, with user stories and everything. On myself. Why is this so amazing? Well, putting aside the  Continue Reading",
+    "date" : ISODate("2021-02-24T17:41:57.126Z"),
+    "question" : "How do product managers practice their profession outside of their day job? ",
+    "source" : "Quora"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("603690180c817f0398fabc5f"),
+    "job_link" : "https://www.quora.com/What-is-the-prediction-for-the-job-market-for-product-managers-in-Silicon-Valley-in-2015?-",
+    "answer" : "Overall the unemployment rate in the Valley is going to be around 3 percent and very likely a little lower for those working as product managers in tech.",
+    "date" : ISODate("2021-02-24T17:42:48.295Z"),
+    "question" : "What is the prediction for the job market for product managers in Silicon Valley in 2015? ",
+    "source" : "Quora"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("603690310c817f0398fabcce"),
+    "job_link" : "https://www.quora.com/Where-can-I-find-a-remote-job-as-a-software-Product-Manager?-",
+    "answer" : "Keith Cowing Product management is, by nature, a very cross-functional job. So it is difficult to be effective as a product manager if you are remote and the rest of the team is centrally located. It is possible, but frequently painful and inefficient. I say this as somebody who has worked as a PM in NYC for Twitter and LinkedIn, both of whom are based in California. So if I were looking for a remote PM job, I would look for companies that are fundamentally remote to begin with. If the team and culture are built around a distributed workforce, then you are not looking for a “remote PM job” but simply a “PM job” in a place that has processes and communications that support a distributed team. Most companies are centralized and the personalities of the founders and the team members determine whether or no Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:43:13.799Z"),
+    "question" : "Where can I find a remote job as a software Product Manager? ",
+    "source" : "Quora"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("6036904c0c817f0398fabcef"),
+    "job_link" : "https://www.quora.com/Was-Steve-Jobs-a-product-manager?-",
+    "answer" : "Chang Liu",
+    "date" : ISODate("2021-02-24T17:43:40.409Z"),
+    "question" : "Was Steve Jobs a product manager? ",
+    "source" : "Quora"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("603690880c817f0398fabd99"),
+    "job_link" : "https://www.quora.com/What-is-the-job-of-a-CTO-in-a-company-where-engineers-are-managed-by-specific-product-teams-under-Chief-Product-Officer?-",
+    "answer" : "I would be very surprised if the CTO has no engineering teams reporting to him/her at all.  It's more likely that there are different engineering groups reporting to the CTO and CPO. If so, eBay (where I currently work) has had this type of organization structure since 2013.  The CPO's organization includes product managers and engineering teams that focus on building those products, grouped by application domain areas.  On the other hand, the CTO's organization comprises engineering teams that focus more on developing the common platforms and data/systems infrastructure upon which our products are built, as well as cross-cutting architectural and engineering concerns.  Both are large and deep engineering organizations, but with decidedly distinct focus areas and development cadences. This t Continue Reading I would be very surprised if the CTO has no engineering teams reporting to him/her at all.  It's more likely that there are different engineering groups reporting to the CTO and CPO. If so, eBay (where I currently work) has had this type of organization structure since 2013.  The CPO's organization includes product managers and engineering teams that focus on building those products, grouped by application domain areas.  On the other hand, the CTO's organization comprises engineering teams that focus more on developing the common platforms and data/systems infrastructure upon which our products are built, as well as cross-cutting architectural and engineering concerns.  Both are large and deep engineering organizations, but with decidedly distinct focus areas and development cadences. This t Continue Reading",
+    "date" : ISODate("2021-02-24T17:44:40.102Z"),
+    "question" : "What is the job of a CTO in a company where engineers are managed by specific product teams under Chief Product Officer? ",
+    "source" : "Quora"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("603690a50c817f0398fabe19"),
+    "job_link" : "https://www.quora.com/Which-tech-companies-give-product-managers-lots-of-responsibility-and-do-a-great-job-defining-the-product-manager-role?-",
+    "answer" : "Intuit",
+    "date" : ISODate("2021-02-24T17:45:09.196Z"),
+    "question" : "Which tech companies give product managers lots of responsibility and do a great job defining the product manager role? ",
+    "source" : "Quora"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("603690ba0c817f0398fabe2d"),
+    "job_link" : "https://www.quora.com/Do-fresh-college-graduates-get-product-manager-jobs?-",
+    "answer" : "Before you read any of these answers, go to glassdoor, Indeed, or whatever Job Portal you want to check out Product Manager roles. Now that you have done that, what do they all say? Probably something along the lines of “3 years experience required”. Product Manager jobs are generally very technical, and require a great deal of real-world practice in order to be an effective worker in this role. Obviously, it is very difficult to gain this type of experience while being a full-time student. Most prospective PMs out of college will be designated to a more junior Product role in order to gain this experience (which is still a great way to learn!). Which means that “fresh” college graduates are not as likely to jump right into a PM role. A great way to gain additional experience in order to navi Continue Reading Before you read any of these answers, go to glassdoor, Indeed, or whatever Job Portal you want to check out Product Manager roles. Now that you have done that, what do they all say? Probably something along the lines of “3 years experience required”. Product Manager jobs are generally very technical, and require a great deal of real-world practice in order to be an effective worker in this role. Obviously, it is very difficult to gain this type of experience while being a full-time student. Most prospective PMs out of college will be designated to a more junior Product role in order to gain this experience (which is still a great way to learn!). Which means that “fresh” college graduates are not as likely to jump right into a PM role. A great way to gain additional experience in order to navi Continue Reading",
+    "date" : ISODate("2021-02-24T17:45:30.058Z"),
+    "question" : "Do fresh college graduates get product manager jobs? ",
+    "source" : "Quora"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("603690d30c817f0398fabe58"),
+    "job_link" : "https://www.quora.com/What-is-your-review-of-Product-Manager-Jobs-and-Recruiting?-",
+    "answer" : "Satisha Venkataramaiah, A passionate product and an Agile EnthusiastAnswered 2 years agoWho is a Product Manager and What do they do? Satisha Venkataramaiah A short answer is: Product Management is a profession of creatively solving users problem while strategically helping business succeed. A product manager is someone who is responsible for product management. Here is a quick video where I explain who a Product Manager is:  The illustration below should give a fair idea of what they do:  Product Managers are responsible for: Doing market research and creating product strategy - Product positioning, pricing etc.Create a Business Model design to ensure that the organization’s revenue/margin goals are met.Conduct user research to identify user jobs, their pains and needs and turning them into product features to be developed. Running experiments to figure out problem/solution fit.Defining product features and working with dContinue Reading",
+    "date" : ISODate("2021-02-24T17:45:55.271Z"),
+    "question" : "What is your review of Product Manager Jobs and Recruiting? ",
+    "source" : "Quora"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("603690eb0c817f0398fabec5"),
+    "job_link" : "https://www.quora.com/How-do-I-find-a-product-manager-job-in-Tokyo?-",
+    "answer" : "This answer comes in two parts. First, the availability of product management jobs in Japan has been low. I have kept an eye on the job market for the past 8 years and until recently, product management jobs were rare. This corresponds to a general observation that product management is not a well-defined profession in Japan (and in other countries), and foreign firms operating in Japan would typically have product management based in the HQ. Recently however, there have been more foreign companies posting product management jobs in Japan, perhaps because LinkedIn is becoming more widely used in Japan. This is a welcome development and one that I am examining for myself.  My sense so far is that most of these recent jobs are regional product management, not core product management. That means the regional PM gives input to the PM at HQ. And depending on the company, there may or may not be much that results from that. Of course, the case of a company having development based in the region is an exception, and I haven't run across that yet. The second part of this answer is about language ability and native bias. Almost all foreign firms posting jobs in Japan make high-level Japanese proficiency a requirement. However, a foreigner with the necessary skills may not have that proficiency. So what often happens is the company keeps trying to find bilingual candidates who can possibly step up to the job. Often the foreign company will default to a native Japanese candidate who may have some of the skills and whose English is passable. Sadly, this often does not work because language ability is really the tip of the iceberg. For example, a native Japanese person will be more reticent and not so aggressive in terms of communicating with the foreign HQ. Most tech companies in the US require a high degree of pushiness to achieve a minimal level of communication. And if the person does not really understand the nature of the role, he/she will be more isolated in general and may never get the picture. So in conclusion, my sense is that foreign companies are starting on the path to having regional product management in Japan, but there will be a learning period as they figure out what works and doesn't work. And even if they find the perfect candidate, that person may not have as much control as would normally be the case, back in HQ.",
+    "date" : ISODate("2021-02-24T17:46:19.683Z"),
+    "question" : "How do I find a product manager job in Tokyo? ",
+    "source" : "Quora"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("6036913e0c817f0398fabf82"),
+    "job_link" : "https://www.quora.com/What-tangible-things-should-a-product-manager-do-to-get-better-at-the-job?-",
+    "answer" : "Cliff Gilley Here are a few thoughts off the top of my head:  Avoid \"certifications\" unless your company is paying for them; they almost all cover fundamentals and show that you \"know\" what to do, but not that you can actually execute.Network whenever and wherever you can -- if there's a ProductCamp near you, go to it; if there are PM Meetups, go to them; if there's a General Assembly or other such organization in your area, figure out how to engage with them.Experiment and learn -- constantly.  Try writing an Android or an iOS app.  If that's too much, create your own website from scratch.  Just test out your boundaries and push yourself so that you have something to show that's not just work.I might come up with more, but I think those are three valuable, tangible things that any PM can do to be b Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:47:42.602Z"),
+    "question" : "What tangible things should a product manager do to get better at the job? ",
+    "source" : "Quora"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("603691570c817f0398fabffd"),
+    "job_link" : "https://www.quora.com/How-are-the-job-prospects-after-MS-in-Product-Management-from-CMU?-",
+    "answer" : "This is a specialty program only the school can provide the placement outlook. But given CMU’s general strength in the tech sector (sw especially), this degree is definitely going to open doors in that particular sector…..",
+    "date" : ISODate("2021-02-24T17:48:07.659Z"),
+    "question" : "How are the job prospects after MS in Product Management from CMU? ",
+    "source" : "Quora"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("6036917d0c817f0398fac02a"),
+    "job_link" : "https://www.quora.com/Is-Steve-Jobs-the-best-product-manager-of-our-time?-",
+    "answer" : "To limit Steve Jobs to a product manager box is too limiting for a person much larger than a product manager. He changed the tech and design industries in ways that most people could not even dream about at the time. In the spirit of the question, I’ll play along. Steve Jobs gets an A or A+ on all criteria for a good product manager. Shared his vision clearly with the teamWorked with design to come up with a design that aligned with the vision.Worked with Development team to push boundaries of technologyFulfilled a previously unmet customer needMarketed the product with finesse and enthusiasmMet and the exceeded expectations of his sponsors (or stakeholders).Got supply chain and operations to be innovativeMotivated all his teams to give their best to fulfill the vision",
+    "date" : ISODate("2021-02-24T17:48:45.579Z"),
+    "question" : "Is Steve Jobs the best product manager of our time? ",
+    "source" : "Quora"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("603691cf0c817f0398fac149"),
+    "job_link" : "https://www.quora.com/What-are-some-ways-to-get-an-entry-level-product-management-job-in-Silicon-valley-startups-as-a-software-engineer?-",
+    "answer" : "Jason Shah If you remain at the same company... Work more closely with your PM. Suggest feature ideas, but make sure you filter them and avoid coming off as overbearing. Watch them as they do analysis of feature performance.Shadow PMs (sweeten the deal by offering to do something that may be undesirable to them and low potential to be damaging if you mess up, such as assigning some part of the bug queue)...if you change companies Focus on applying to engineering heavy companies (traditionally, Google and the like, whereas Facebook has more of a product-emphasis and less technical needs from its PMs)Use your software engineering background to build side projects that demonstrate your ability to make good product decisionsIf you are a recent grad, you can still get into some of the rotational program Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:50:07.397Z"),
+    "question" : "What are some ways to get an entry level product management job in Silicon valley startups as a software engineer? ",
+    "source" : "Quora"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("603691f90c817f0398fac19a"),
+    "job_link" : "https://www.quora.com/How-is-the-job-market-for-product-management-in-Southeast-Asia?-",
+    "answer" : "Entry level product management jobs for expats is difficult to land in Malaysia. One of the biggest reasons is the fact that visa applications here are quite an arduous task. So it doesn't make sense to hire someone who doesn't have much experience to do a job that is not a rare position here. At the same time, some startups here don't mind giving you a shot as long as you have the willingness to also pick up other skills along the way such as a bit of programming know-how. For example, TribeHired (which I am co-founder at) helps talent interested to get into the bustling IT/Startup industry here in Malaysia get a job offer in the shortest time possible. So we do come across a lot of foreigners who also want to do Product Management but it is usually along with other expertise that they possess.",
+    "date" : ISODate("2021-02-24T17:50:49.417Z"),
+    "question" : "How is the job market for product management in Southeast Asia? ",
+    "source" : "Quora"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("603692280c817f0398fac22f"),
+    "job_link" : "https://www.quora.com/What-are-the-job-prospects-for-product-managers-vs-engineering-managers?-",
+    "answer" : "Are there a lot more positions for engineering managers than product managers? Yes. engineer:engineering manager ratios within a company need to be kept relatively low, and as the total number of engineering managers grows, so does the need for managers of those managers. Including managers of managers, the total need for engineering managers in an org is something close to  (desired engineer / engineering manager ratio)  * (total size of engineering org) * log(total size of eng org) By contrast, product managers generally focus on one or two products that span multiple engineering teams, and across an organization there is usually a significantly lower engineer / PM ratio as compared to the engineer  / engineering manager ratio. Moreover, in many startups, founders handle product management f Continue Reading Are there a lot more positions for engineering managers than product managers? Yes. engineer:engineering manager ratios within a company need to be kept relatively low, and as the total number of engineering managers grows, so does the need for managers of those managers. Including managers of managers, the total need for engineering managers in an org is something close to  (desired engineer / engineering manager ratio)  * (total size of engineering org) * log(total size of eng org) By contrast, product managers generally focus on one or two products that span multiple engineering teams, and across an organization there is usually a significantly lower engineer / PM ratio as compared to the engineer  / engineering manager ratio. Moreover, in many startups, founders handle product management f Continue Reading",
+    "date" : ISODate("2021-02-24T17:51:36.186Z"),
+    "question" : "What are the job prospects for product managers vs engineering managers? ",
+    "source" : "Quora"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("6036925d0c817f0398fac2ce"),
+    "job_link" : "https://www.quora.com/Can-one-really-get-a-product-management-job-without-prior-work-experience?-",
+    "answer" : "Saeed Khan Just to repeat what you said in your description: “…it is not necessary to have prior PRODUCT MANAGEMENT experience to land a PM job.” Yes, that is correct. You don’t need prior PM experience to land a PM job. But nowhere does it way you don’t need ANY experience at all does it? As I’ve said in other posts, and to quote a line from the Chronicles of Riddick: “We all began as something else.”  Everyone who works in technology product management today had SOME previous work experience. The only people who could possibly enter into technology product management WITHOUT ANY prior work experience are people who graduated and then did a PM internship somewhere before then moving into some PM role. There are really no undergraduate programs that “teach” product management. There are some MBA programs wi Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T17:52:29.356Z"),
+    "question" : "Can one really get a product management job without prior work experience? ",
+    "source" : "Quora"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("603692890c817f0398fac369"),
+    "job_link" : "https://www.quora.com/What-is-the-best-way-to-find-a-product-manager-job-in-Silicon-Valley?-",
+    "answer" : "Include Related Answers Elizabeth Gregory",
+    "date" : ISODate("2021-02-24T17:53:13.174Z"),
+    "question" : "What is the best way to find a product manager job in Silicon Valley? ",
+    "source" : "Quora"
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("603692be0c817f0398fac416"),
+    "job_link" : "https://www.quora.com/Where-can-I-find-product-management-jobs?-",
+    "answer" : "Include Related Answers Carlos Gonzalez de Villaumbrosia",
+    "date" : ISODate("2021-02-24T17:54:06.138Z"),
+    "question" : "Where can I find product management jobs? ",
+    "source" : "Quora"
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("603692d40c817f0398fac431"),
+    "job_link" : "https://www.quora.com/How-is-current-job-market-in-India-for-product-management?-",
+    "answer" : "Include Related Answers  How is current job market in India for product management?",
+    "date" : ISODate("2021-02-24T17:54:28.122Z"),
+    "question" : "How is current job market in India for product management? ",
+    "source" : "Quora"
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("603692f20c817f0398fac469"),
+    "job_link" : "https://www.quora.com/How-hard-is-it-to-find-a-product-manager-job-in-Australia?-",
+    "answer" : "Rohan Kamath, Program Manager at Microsoft (2016-present)Updated 1 year ago · Author has 233 answers and 22.9M answer viewsHow do you get into a product management role with no prior experience as a PM? Rohan Kamath A2A. Tl;Dr. at the end. The PM role comes in a multitude of flavors. I’m going to talk about the few broad categories here, the highlights and pitfalls of each one and the skillset required to succeed in these roles.   The most important requirement for any PM is the ability to appreciate good food…  Technical Program Management What does it mean?Rohan is a Technical PM. He owns protecting the M365 Datacenter at Microsoft. His job is to make sure that all customer data in his cloud is secure. For this, he runs Identity Management and Access Control, Secrets Management, Authorization and Authentication across the stack and other components that drive his uber goal. His role is an intersection of system architect, component designer and customer liaison. He spends most of his time working closelyContinue Reading",
+    "date" : ISODate("2021-02-24T17:54:58.349Z"),
+    "question" : "How hard is it to find a product manager job in Australia? ",
+    "source" : "Quora"
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("603693280c817f0398fac513"),
+    "job_link" : "https://www.quora.com/What-are-some-ways-to-get-a-job-in-product-management-without-a-technical-background?-",
+    "answer" : "There are a lot of good answers here: The Product Manager Handbook.pdf",
+    "date" : ISODate("2021-02-24T17:55:52.878Z"),
+    "question" : "What are some ways to get a job in product management without a technical background? ",
+    "source" : "Quora"
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("603693410c817f0398fac587"),
+    "job_link" : "https://www.quora.com/How-do-you-get-a-job-as-a-Product-Manager-or-Project-Manager?-",
+    "answer" : "Include Related Answers  How do you get a job as a Product Manager or Project Manager?",
+    "date" : ISODate("2021-02-24T17:56:17.103Z"),
+    "question" : "How do you get a job as a Product Manager or Project Manager? ",
+    "source" : "Quora"
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("6036938c0c817f0398fac651"),
+    "job_link" : "https://www.quora.com/What-is-the-job-profile-of-product-managers?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T17:57:32.762Z"),
+    "question" : "What is the job profile of product managers? ",
+    "source" : "Quora"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("603693a70c817f0398fac685"),
+    "job_link" : "https://www.quora.com/What-is-a-really-good-job-description-for-a-product-manager?-",
+    "answer" : "Ali Raza",
+    "date" : ISODate("2021-02-24T17:57:59.603Z"),
+    "question" : "What is a really good job description for a product manager? ",
+    "source" : "Quora"
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("6036940e0c817f0398fac7c3"),
+    "job_link" : "https://www.quora.com/How-can-I-get-a-product-manager-role-at-Google-India?-",
+    "answer" : "Include Related Answers  How do I get a product manager job in Google?",
+    "date" : ISODate("2021-02-24T17:59:42.907Z"),
+    "question" : "How can I get a product manager role at Google India? ",
+    "source" : "Quora"
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("603694510c817f0398fac885"),
+    "job_link" : "https://www.quora.com/Is-product-management-a-technical-job?-",
+    "answer" : "Naman Varma, M.B.A Sales and Marketing Technologies & Product Management, University of Mumbai (2010)Answered 1 year ago · Upvoted by Anjali Rai, Masters Product Management & Product Development (2007)How technical should you be, to consider being a product manager? Naman Varma How technical should you be, to consider being a product manager?",
+    "date" : ISODate("2021-02-24T18:00:49.821Z"),
+    "question" : "Is product management a technical job? ",
+    "source" : "Quora"
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("6036948c0c817f0398fac931"),
+    "job_link" : "https://www.quora.com/How-does-one-secure-an-associate-product-manager-job-at-Google?-",
+    "answer" : "Include Related Answers Lewis C. Lin 🦊 1",
+    "date" : ISODate("2021-02-24T18:01:48.298Z"),
+    "question" : "How does one secure an associate product manager job at Google? ",
+    "source" : "Quora"
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("603694a70c817f0398fac9aa"),
+    "job_link" : "https://www.quora.com/What-was-your-first-assigned-task-as-a-product-manager?-",
+    "answer" : "Include Related Answers  What was your first assigned task as a product manager?",
+    "date" : ISODate("2021-02-24T18:02:15.537Z"),
+    "question" : "What was your first assigned task as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("603694da0c817f0398faca59"),
+    "job_link" : "https://www.quora.com/What-are-some-good-stories-about-how-people-got-their-first-product-manager-job?-",
+    "answer" : "Natala Menezes When I'm hiring new associate PM's I look for the following characteristics: (1) Product AwarenessDo they know the product they want to work on? Do they understand the value of features and have ideas for improvements? Are they able to think creatively and practically about the costs and values of different features and define a framework for prioritizing features? Do they understand how a product compares positively and negatively with other similar products in the market? Are they use case driven in the development and design of features? (2) Communication SkillsPMs must be good communicators. They need to be engaging, positive and able to negotiates and inspire. PMs work with a diverse group people - from engineers to front-line sales, they need to be able to understand these differ Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T18:03:06.807Z"),
+    "question" : "What are some good stories about how people got their first product manager job? ",
+    "source" : "Quora"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("603694f00c817f0398faca75"),
+    "job_link" : "https://www.quora.com/How-do-I-get-product-management-jobs-in-the-US-with-2-years-work-experience-in-India-in-product-management?-",
+    "answer" : "I believe to get job anywhere in the world in the field of your interest, you need to evolve as as Global Expert in the same such companies accept you irrespective of your current working location.",
+    "date" : ISODate("2021-02-24T18:03:28.627Z"),
+    "question" : "How do I get product management jobs in the US with 2 years work experience in India in product management? ",
+    "source" : "Quora"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("603695320c817f0398facb31"),
+    "job_link" : "https://www.quora.com/What-can-I-do-in-my-free-time-to-make-myself-a-more-attractive-candidate-for-an-entry-level-job-in-product-management?-",
+    "answer" : "Shankar Bharathan 1) The simplest and the easiest thing that you can do is to really  be a superstar in your area of study (finance & accounting) - know the basics/ fundamentals really well, have an idea of the current trends/ news/ happenings in this domain and other related areas. 2) Pick-up/ shortlist established product companies that have something to do with your area of study, for e.g. ERP/ Financials/ BFSI software companies. Start applying for them.  As many have said here, try of internships here - there's a great likelihood that you'll be absorbed into mainstream if you really show the talent. Big companies are more likely to have more PM requirements and might be more open to recruiting interns/ freshers.  (If you have friends in such companies, then start polling them for ideas/ opportunities.)  Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T18:04:34.168Z"),
+    "question" : "What can I do in my free time to make myself a more attractive candidate for an entry level job in product management? ",
+    "source" : "Quora"
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("603695520c817f0398facbbe"),
+    "job_link" : "https://www.quora.com/Is-the-job-of-a-Product-designer-a-subset-of-the-work-of-a-Product-Manager?-",
+    "answer" : "I'll answer this in the most round about way possible. Is the job of project manager a subset of the work of a CEO, perhaps. Not that a product manager is a CEO by any means, it's that one is more concentrated/deeper vs. other is more broader. Designer cares about design, they go deeper into user experiences, insights and focus on the design aspect of the product. While they may understand other aspects of product management (vision, strategy, target markets, tactial leadership on features/enhancements/design, where to invest, where not to invest), they are not expected to be responsible for those nor are they expected to make decisions in those areas. On the other hand, product managers are responsible for everything I mentioned above. They are expected to use all the tools, people, resourc Continue Reading I'll answer this in the most round about way possible. Is the job of project manager a subset of the work of a CEO, perhaps. Not that a product manager is a CEO by any means, it's that one is more concentrated/deeper vs. other is more broader. Designer cares about design, they go deeper into user experiences, insights and focus on the design aspect of the product. While they may understand other aspects of product management (vision, strategy, target markets, tactial leadership on features/enhancements/design, where to invest, where not to invest), they are not expected to be responsible for those nor are they expected to make decisions in those areas. On the other hand, product managers are responsible for everything I mentioned above. They are expected to use all the tools, people, resourc Continue Reading",
+    "date" : ISODate("2021-02-24T18:05:06.753Z"),
+    "question" : "Is the job of a Product designer a subset of the work of a Product Manager? ",
+    "source" : "Quora"
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("6036956b0c817f0398facbdf"),
+    "job_link" : "https://www.quora.com/Is-the-job-of-Associate-Product-Manager-at-Google-worth-immigrating-for?-",
+    "answer" : "Yes, especially if your current role is developer/analyst. If you receive an offer for the Associate Product Manager (not to be confused with APMM) position and you are a new or recent grad, take it.",
+    "date" : ISODate("2021-02-24T18:05:31.357Z"),
+    "question" : "Is the job of Associate Product Manager at Google worth immigrating for? ",
+    "source" : "Quora"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("6036957d0c817f0398facc03"),
+    "job_link" : "https://www.quora.com/What-is-the-correct-job-name-Product-Management-Director-or-Director-of-Product-Management?-",
+    "answer" : "Every company has different titles. Both of those are fine. When you see “Director' of Product Management it usually means that the person is a manager of managers (at a medium to large company). At a smaller place that might not be the case. The other general assumptions you can make is the person has experience (They aren't a line level product manager, those are usually called “Product Manager” or “Associate Product Manager”) Kashan Mohammad",
+    "date" : ISODate("2021-02-24T18:05:49.753Z"),
+    "question" : "What is the correct job name Product Management Director or Director of Product Management? ",
+    "source" : "Quora"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("603695ad0c817f0398facc9e"),
+    "job_link" : "https://www.quora.com/Are-there-IT-product-manager-jobs-in-Mumbai?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T18:06:37.581Z"),
+    "question" : "Are there IT product manager jobs in Mumbai? ",
+    "source" : "Quora"
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("603695f00c817f0398facd61"),
+    "job_link" : "https://www.quora.com/What-should-I-know-before-being-interviewed-at-Facebook-for-a-product-manager-job?-",
+    "answer" : "Avoid over-preparing. Everyone has their own tendencies. Start by asking the right questions. Being a student of the thing you’re passionate about will help you answer the questions in your interview. Keep it simple, short, and sweet. Would you agree?",
+    "date" : ISODate("2021-02-24T18:07:44.404Z"),
+    "question" : "What should I know before being interviewed at Facebook for a product manager job? ",
+    "source" : "Quora"
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("6036960e0c817f0398facddf"),
+    "job_link" : "https://www.quora.com/What-is-the-best-way-to-get-a-senior-product-manager-job-in-Europe-for-a-non-EU-citizen?-",
+    "answer" : "Include Related Answers  What is the best way to get a senior product manager job in Europe for a non EU citizen?",
+    "date" : ISODate("2021-02-24T18:08:14.264Z"),
+    "question" : "What is the best way to get a senior product manager job in Europe for a non EU citizen? ",
+    "source" : "Quora"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("603696810c817f0398facf3c"),
+    "job_link" : "https://www.quora.com/Is-it-harder-to-find-a-role-in-software-engineering-than-it-is-in-product-management?-",
+    "answer" : "Chaitra R Finding a good software development job or a product job is not a cake walk, but it gets relatively harder with product because of the below mentioned reasons: The number of job openings for product are less, so competition is very high. There is no standard for Product interviews, it varies widely from company to company, unlike software development. This makes preparation for PM interviews harder. Product review and critical analysis becomes very important before interviewing for that product. So, every product interview preparation is a new ball game. Product people have got to be jack of all trades from tech to business to design to communication and sales. Lastly, The scope of responsibility for a PM is across the product unlike development where you are done once you ship code. PMs drive  Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T18:10:09.686Z"),
+    "question" : "Is it harder to find a role in software engineering than it is in product management? ",
+    "source" : "Quora"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("603696ae0c817f0398facf85"),
+    "job_link" : "https://www.quora.com/Is-there-any-job-even-remotely-similar-to-product-management?-",
+    "answer" : "Greg Hartrell Lots of other professions are similar to tech Product Management. Showrunners for TV series. Architects (the wood/concrete building kind, not the tech kind). Managers at an advertising agency. Maybe political “chief of staff” roles? Any job is probably like PM if: You are responsible for figuring out what should happen (e.g. a 4-story LEED Platinum office building) and then you have to work with a wide range of experts (e.g. contractors, structural engineers, etc.) who actually make it happen.You’re the central point where different stakeholders’ requirements converge (e.g. solid gold bathroom fixtures! also: under $5M budget!), and it’s up to you to help make difficult tradeoffs between them.It’s up to you to ensure that the final output is actually delivered while as much as possible stayContinue Reading",
+    "date" : ISODate("2021-02-24T18:10:54.179Z"),
+    "question" : "Is there any job even remotely similar to product management? ",
+    "source" : "Quora"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("603696f00c817f0398fad094"),
+    "job_link" : "https://www.quora.com/What-part-of-the-job-is-the-most-challenging-for-a-product-marketing-manager?-",
+    "answer" : "The challenging part of a Product Marketing Manager job is that marketing is more often thought as an afterthought of building the product/feature/solution. Marketing is a storytelling of how the product will deliver value to its customers, the story should be crafted even before building the product and development process should align with the story. However, there are elements like hypothesis validation that can help validate the story and re-frame it when required to pivot. Crafting the story should always be an aforethought and not afterthought. PMMs should be involved right at the beginning and the reality is that they are involved towards the end to craft a story based on what is built.",
+    "date" : ISODate("2021-02-24T18:12:00.583Z"),
+    "question" : "What part of the job is the most challenging for a product marketing manager? ",
+    "source" : "Quora"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("603697490c817f0398fad1aa"),
+    "job_link" : "https://www.quora.com/What-is-the-best-website-to-list-your-resume-on-for-product-management-jobs?-",
+    "answer" : "Pat Jay  Lokesh Kannaiyan",
+    "date" : ISODate("2021-02-24T18:13:29.717Z"),
+    "question" : "What is the best website to list your resume on for product management jobs? ",
+    "source" : "Quora"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("603697780c817f0398fad251"),
+    "job_link" : "https://www.quora.com/Which-city-in-Canada-has-product-management-jobs?-",
+    "answer" : "As others have already noted, many cities in Canada have product management jobs. The field is growing fast and being a product manager is now one of the most sought-after jobs. Top business schools are offering product management tracks, and boot camps are popping up across the country to teach people how to build meaningful products and lead cross-functional teams. If you are looking for another avenue to search for product management jobs, I suggest Roadmap.com. The forum-style site is one of the fastest growing communities for product managers. Each month there is a jobs thread that receives dozens of openings posted by hiring managers. There are often job openings posted by Canadian companies. In this month's jobs post, there are a few remote product management positions as well as an op Continue Reading As others have already noted, many cities in Canada have product management jobs. The field is growing fast and being a product manager is now one of the most sought-after jobs. Top business schools are offering product management tracks, and boot camps are popping up across the country to teach people how to build meaningful products and lead cross-functional teams. If you are looking for another avenue to search for product management jobs, I suggest Roadmap.com. The forum-style site is one of the fastest growing communities for product managers. Each month there is a jobs thread that receives dozens of openings posted by hiring managers. There are often job openings posted by Canadian companies. In this month's jobs post, there are a few remote product management positions as well as an op Continue Reading",
+    "date" : ISODate("2021-02-24T18:14:16.074Z"),
+    "question" : "Which city in Canada has product management jobs? ",
+    "source" : "Quora"
+}
+/* 1 */
+{
+    "_id" : ObjectId("603697e60c817f0398fad3b6"),
+    "job_link" : "https://www.quora.com/Is-product-management-a-less-stressful-job-than-software-engineering?-",
+    "answer" : "Both jobs have their own type of stress - it all depends on what stresses you. The audience / job type is different. In my company, product managers interact more with upper management. So they feel the full wrath of managements unhappiness when you tell them that their grand visions of rainbow hopping unicorns can’t be delivered on the promised date. To product managers, deadlines are unmovable without lots of pain and unhappiness. Software engineers are more based in reality, and understand that some things cannot be done quickly. To quote Fred Brooks from The Mythical Man-Month: “The bearing of a child takes nine months, no matter how many women are assigned.”. To software engineers, deadlines are targets that can be adjusted with good reasons.",
+    "date" : ISODate("2021-02-24T18:16:06.817Z"),
+    "question" : "Is product management a less stressful job than software engineering? ",
+    "source" : "Quora"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("603698000c817f0398fad3e3"),
+    "job_link" : "https://www.quora.com/What-is-the-actual-responsibility-of-the-job-position-Product-Manager-in-IT-company?-",
+    "answer" : "The classic responsibilities of a Product Manager in any company are to ensure the success of the product throughout its entire lifecycle which includes development, implementation, and support of the product as well as the business strategy and marketing for external products. Companies that develop products for external sale (for example, Intuit QuickBooks and Quicken) understand this role very well and have very professional product managers because it is so essential to their business success. I assume that what you mean by an \"IT company\" is other companies that develop IT applications for internal use. In those companies, the basic concept is the same and the applications could easily be significant enough to qualify for a similar kind of product management, but the relationship to th Continue Reading The classic responsibilities of a Product Manager in any company are to ensure the success of the product throughout its entire lifecycle which includes development, implementation, and support of the product as well as the business strategy and marketing for external products. Companies that develop products for external sale (for example, Intuit QuickBooks and Quicken) understand this role very well and have very professional product managers because it is so essential to their business success. I assume that what you mean by an \"IT company\" is other companies that develop IT applications for internal use. In those companies, the basic concept is the same and the applications could easily be significant enough to qualify for a similar kind of product management, but the relationship to th Continue Reading",
+    "date" : ISODate("2021-02-24T18:16:32.508Z"),
+    "question" : "What is the actual responsibility of the job position Product Manager in IT company? ",
+    "source" : "Quora"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("603698180c817f0398fad40f"),
+    "job_link" : "https://www.quora.com/How-is-Hochschule-Ostwestfalen-Lippe-for-production-engineering-and-management?-Can-an-international-student-get-jobs-in-Germany-after-a-master's?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T18:16:56.643Z"),
+    "question" : "How is Hochschule Ostwestfalen-Lippe for production engineering and management? ",
+    "source" : "Quora"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("603698370c817f0398fad498"),
+    "job_link" : "https://www.quora.com/How-do-I-find-a-job-in-Facebook-as-a-product-manager?-",
+    "answer" : "Carlos Gonzalez de Villaumbrosia, CEO of Product School - San Francisco, Silicon Valley, Los Angeles and New YorkAnswered 1 year ago · Author has 925 answers and 1.8M answer viewsHow does Facebook hire product managers? Carlos Gonzalez de Villaumbrosia Before you even start planning for your Facebook interview, the first thing you need to ask yourself is, “do I empathize with people and the users I worked with from previous companies?” If the answer is no, well, you might want to start looking elsewhere, because the interview process at Facebook highly emphasizes that their PMs need to be able to empathize. If you answered yes, great! You’re starting off on the right foot. Now let’s imagine that you get that fateful reply from FB that they are interested in having you come in to speak further about the possibility of working together. While this is great news, your work is just starting, because as Valentine Aseyo describes, it is time to prep prep and more prep for this interview. With your preparation complete, here is what you can expect f Continue Reading",
+    "date" : ISODate("2021-02-24T18:17:27.819Z"),
+    "question" : "How do I find a job in Facebook as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("603698500c817f0398fad4ca"),
+    "job_link" : "https://www.quora.com/How-important-is-your-GPA-for-landing-a-product-management-job?-",
+    "answer" : "If you’re currently a undergraduate student who is applying for an Associate Product Manager position at companies such as Google, your GPA somewhat matters. You don’t need to have a super high GPA but your GPA needs to be respectable. Because you had very little professional experience, companies use your GPA as a proxy to measure your work ethics, and weed out the slackers from the applicant pool. A respectable GPA will be at the 3.3 or higher range. Ideally you should have 3.5. If you have been out of school for a while, GPA is not important at all. Nobody will ask you about your GPA during your job interview process. In the early days, Google used to ask applicants to submit their academic transcripts. But, Google had stopped this practice because Google internal data showed that there  Continue Reading If you’re currently a undergraduate student who is applying for an Associate Product Manager position at companies such as Google, your GPA somewhat matters. You don’t need to have a super high GPA but your GPA needs to be respectable. Because you had very little professional experience, companies use your GPA as a proxy to measure your work ethics, and weed out the slackers from the applicant pool. A respectable GPA will be at the 3.3 or higher range. Ideally you should have 3.5. If you have been out of school for a while, GPA is not important at all. Nobody will ask you about your GPA during your job interview process. In the early days, Google used to ask applicants to submit their academic transcripts. But, Google had stopped this practice because Google internal data showed that there  Continue Reading",
+    "date" : ISODate("2021-02-24T18:17:52.709Z"),
+    "question" : "How important is your GPA for landing a product management job? ",
+    "source" : "Quora"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("603698640c817f0398fad542"),
+    "job_link" : "https://www.quora.com/How-do-I-get-a-product-design-manager-job-in-Tencent?-",
+    "answer" : "Include Related Answers Gurpreet Singh 1",
+    "date" : ISODate("2021-02-24T18:18:12.301Z"),
+    "question" : "How do I get a product design manager job in Tencent? ",
+    "source" : "Quora"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6036987b0c817f0398fad56b"),
+    "job_link" : "https://www.quora.com/What-is-the-previous-job-title-that-Product-Managers-typically-have-before-their-first-PM-role?-",
+    "answer" : "Luisa Isbell Product managers can have a variety of roles and responsibilities prior to their first PM gig at companies like Google, Twitter, and the like. Here are just a few prominent  leaders in the space who began their product careers in consulting, business development, software engineering, and more: Keval Desai of InterWest Partners VC was the Director of Product Management for Google AdWords. Years before, he began his career as a software engineer and then a consultant at McKinsey. Satya Patel of Homebrew VC also cut his teeth in consulting before he was the Senior PM for Google AdSense and VP of Product at Twitter. Mina Radhakrishnan of Cowboy Ventures spent time as a software engineering intern and then a business analyst in the financial sector before she became a Google PM and Head of Produc Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T18:18:35.335Z"),
+    "question" : "What is the previous job title that Product Managers typically have before their first PM role? ",
+    "source" : "Quora"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("603698910c817f0398fad592"),
+    "job_link" : "https://www.quora.com/Which-companies-offer-the-best-product-management-jobs-in-India?-",
+    "answer" : "I think shaadi[dot]com is a great product company. According to feedback from an ex-employee, they were truly dedicated to user testing which is very important when it comes to product management. Also, product is a central offering there and CEO has a product focus. I am not sure about other variables you had mentioned. However, the product mindset in the organization is crucial for you to really do product management in its true sense. 2",
+    "date" : ISODate("2021-02-24T18:18:57.150Z"),
+    "question" : "Which companies offer the best product management jobs in India? ",
+    "source" : "Quora"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("603698ee0c817f0398fad703"),
+    "job_link" : "https://www.quora.com/Are-there-part-time-product-manager-jobs?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T18:20:30.750Z"),
+    "question" : "Are there part-time product manager jobs? ",
+    "source" : "Quora"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("603699100c817f0398fad79b"),
+    "job_link" : "https://www.quora.com/What-do-I-need-to-land-a-job-as-a-Product-Manager-in-Australia?-",
+    "answer" : "As the head of product, even for a short time, you should have the credibility to get interviews in product management. Most employers admire those who have started a business--even if it failed.  It's often easiest to move into a product management role from within the company. Many get into the job via sales or development roles (moving internally).  When hiring from the outside, today's managers typically hire product managers with  experience in product management in a similar product space. The ideal candidate would be someone who is a product manager at their number one competitor.  Read Advice for getting into product management for more on how to move into the role. Also see When the product is YOU.",
+    "date" : ISODate("2021-02-24T18:21:04.561Z"),
+    "question" : "What do I need to land a job as a Product Manager in Australia? ",
+    "source" : "Quora"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("603699220c817f0398fad7ba"),
+    "job_link" : "https://www.quora.com/What-are-some-of-hottest-product-management-jobs-at-very-early-stage-startups-in-Silicon-Valley?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T18:21:22.231Z"),
+    "question" : "What are some of hottest product management jobs at very early stage startups in Silicon Valley? ",
+    "source" : "Quora"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("603699350c817f0398fad7db"),
+    "job_link" : "https://www.quora.com/Does-a-college-degree-matter-when-looking-for-a-job-as-a-product-manager?-",
+    "answer" : "C. Johnson  Its not a straight YES/NO - it must not, but it does :) mostly companies have hiring policies in place and factors such as - college, marks, previous experience in X or Y organization at times become a reason for acceptance or rejection.",
+    "date" : ISODate("2021-02-24T18:21:41.695Z"),
+    "question" : "Does a college degree matter when looking for a job as a product manager? ",
+    "source" : "Quora"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("6036995a0c817f0398fad87a"),
+    "job_link" : "https://www.quora.com/What-aspects-of-product-management-do-you-find-the-most-exciting?-",
+    "answer" : "Excellent question! As a former Product Manager and the CEO and Founder of a business that teaches the next generation of Product Managers, I have had a lot of experience speaking with PMs about what they love about the job. Some of the things I personally find exciting about being a Product Manager: The ability to work with a variety of different departments. Working with engineers, designers, marketers, data scientists has enhanced my scope of knowledge on extreme levels. It is a constant learning process.Being a part of new and exciting projects. Creating a Product that millions of people can use is extremely rewarding. Starting from scratch is very difficult and seeing the end product after all the hard work is extremely exciting!I loved creating solutions for customers. Trust me, it feeContinue Reading Excellent question! As a former Product Manager and the CEO and Founder of a business that teaches the next generation of Product Managers, I have had a lot of experience speaking with PMs about what they love about the job. Some of the things I personally find exciting about being a Product Manager: The ability to work with a variety of different departments. Working with engineers, designers, marketers, data scientists has enhanced my scope of knowledge on extreme levels. It is a constant learning process.Being a part of new and exciting projects. Creating a Product that millions of people can use is extremely rewarding. Starting from scratch is very difficult and seeing the end product after all the hard work is extremely exciting!I loved creating solutions for customers. Trust me, it feeContinue Reading",
+    "date" : ISODate("2021-02-24T18:22:18.685Z"),
+    "question" : "What aspects of product management do you find the most exciting? ",
+    "source" : "Quora"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("603699860c817f0398fad929"),
+    "job_link" : "https://www.quora.com/Is-a-product-manager-in-a-technology-company-considered-a-STEM-job-in-the-US?-",
+    "answer" : "Include Related Answers  Is a product manager in a technology company considered a STEM job in the US?",
+    "date" : ISODate("2021-02-24T18:23:02.951Z"),
+    "question" : "Is a product manager in a technology company considered a STEM job in the US? ",
+    "source" : "Quora"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("603699990c817f0398fad949"),
+    "job_link" : "https://www.quora.com/Is-it-easy-for-a-Product-Manager-or-entrepreneur-to-find-a-job-in-a-VC?-",
+    "answer" : "Look at the BIOs on any of the VC firms websites and I think the answer is not impossible and not likely.  Why.   Most VCs have a successful startup under their belt.  Full credit to you for trying and failing but it is a rarified position to be in a VC firm, so entry is difficult.  And most of those were at the CEO/COO level of the successful startup. I would say I have met a number of VCs with a PM background, so that is not an issue form what i have seen.  Real PMs tend to have a holistic view of a technology business, so that is a great lens to bring to the VC game. Finally you have to realize the VC industry is going through a contraction not an expansion at this time.  The last 2 years is the first time I have seen VC's actually leave their jobs. A final thought.  Why?  You might want to Continue Reading Look at the BIOs on any of the VC firms websites and I think the answer is not impossible and not likely.  Why.   Most VCs have a successful startup under their belt.  Full credit to you for trying and failing but it is a rarified position to be in a VC firm, so entry is difficult.  And most of those were at the CEO/COO level of the successful startup. I would say I have met a number of VCs with a PM background, so that is not an issue form what i have seen.  Real PMs tend to have a holistic view of a technology business, so that is a great lens to bring to the VC game. Finally you have to realize the VC industry is going through a contraction not an expansion at this time.  The last 2 years is the first time I have seen VC's actually leave their jobs. A final thought.  Why?  You might want to Continue Reading",
+    "date" : ISODate("2021-02-24T18:23:21.695Z"),
+    "question" : "Is it easy for a Product Manager or entrepreneur to find a job in a VC? ",
+    "source" : "Quora"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("603699fe0c817f0398fadab0"),
+    "job_link" : "https://www.quora.com/How-do-I-prepare-for-product-management-job-interviews-at-tech-startups?-",
+    "answer" : "You work at a technology company for 5–10 years, learn the development process, how the “real” software development process works (how the sausage is made), get your hands dirty, expand your social network to VCs and people with pull, get a PMP (if you want), and learn to live without sleeping. good luck",
+    "date" : ISODate("2021-02-24T18:25:02.621Z"),
+    "question" : "How do I prepare for product management job interviews at tech startups? ",
+    "source" : "Quora"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("60369a230c817f0398fadaef"),
+    "job_link" : "https://www.quora.com/What-is-the-career-path-of-a-product-manager-in-an-Indian-Bank-and-how-good-or-worse-is-this-job-profile?-",
+    "answer" : "Chetana it depends whether it is govt or private owned entity. In govt as they say you are sarkari damamd you get loads of idle time not much work pressure and good salary(fixed). whereas your ass will be on fire always in a private organization, salary will be fixed towards variable side with no job security. its entirely yopur view where you fit in the scheme of things. As you know yourself more than anyone does.",
+    "date" : ISODate("2021-02-24T18:25:39.124Z"),
+    "question" : "What is the career path of a product manager in an Indian Bank and how good or worse is this job profile? ",
+    "source" : "Quora"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("60369a660c817f0398fadbc0"),
+    "job_link" : "https://www.quora.com/What-does-it-take-to-get-a-senior-level-product-manager-job-at-Google-outside-Mountain-View?-",
+    "answer" : "According to friends of mine that either work or worked at Google in a variety of related roles, TPMs need to be more than highly experienced product managers - you need to have an advanced degree (most likely an MBA) as well as the ability to code as well as an engineer - and worked as an engineer for part of their career. If you want more details, ask me your questions in private and I will see if I can get an answer for you - can't guarantee that they will reply, but I will see what I can do. Good luck!",
+    "date" : ISODate("2021-02-24T18:26:46.370Z"),
+    "question" : "What does it take to get a senior-level product manager job at Google outside Mountain View? ",
+    "source" : "Quora"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("60369aa00c817f0398fadc8f"),
+    "job_link" : "https://www.quora.com/How-can-I-land-in-a-Product-Management-job?-",
+    "answer" : "I teach a course on Udemy that walks you through the entire process - from identifying companies, to framing your resume, to passing through phone screens, to learning what it takes to actually be a good PM. You're Hired: How to Get a Job in Product Management by Jason Shah | Udemy",
+    "date" : ISODate("2021-02-24T18:27:44.754Z"),
+    "question" : "How can I land in a Product Management job? ",
+    "source" : "Quora"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("60369ad50c817f0398fadd56"),
+    "job_link" : "https://www.quora.com/What-is-a-job-description-for-a-start-up-growth-hacker-+-product-marketing-manager-look-like?-",
+    "answer" : "Include Related Answers Eddy Azar 12",
+    "date" : ISODate("2021-02-24T18:28:37.355Z"),
+    "question" : "What is a job description for a start-up growth hacker + product marketing manager look like? ",
+    "source" : "Quora"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("60369b5f0c817f0398fadf09"),
+    "job_link" : "https://www.quora.com/How-do-I-transition-from-a-Software-Engineer-Job-to-a-Product-Manager-Job-in-India-without-an-MBA?-",
+    "answer" : "First of all I would like to say that, previous answer does cover few stuffs. And I would try to keep my answer away from it, so that you or anyone reading this post can gain various insights and perspectives.  Being a software Engineer is the best job anyone can have in this time in India. You guys are in demand, a lot. You have the power to built anything from scratch. Why would you want to change? I think you should stick to it. Be a bad-ass developer and see your way to the top. But none the less, since you have asked I will get back to it. Software Engineering is a great field and allows you to know insights of a product. What separates you from a PM is his vision, analytic, perspective. Try to understand why something is developed in a product and what would happen if that's not there. Continue Reading First of all I would like to say that, previous answer does cover few stuffs. And I would try to keep my answer away from it, so that you or anyone reading this post can gain various insights and perspectives.  Being a software Engineer is the best job anyone can have in this time in India. You guys are in demand, a lot. You have the power to built anything from scratch. Why would you want to change? I think you should stick to it. Be a bad-ass developer and see your way to the top. But none the less, since you have asked I will get back to it. Software Engineering is a great field and allows you to know insights of a product. What separates you from a PM is his vision, analytic, perspective. Try to understand why something is developed in a product and what would happen if that's not there. Continue Reading",
+    "date" : ISODate("2021-02-24T18:30:55.679Z"),
+    "question" : "How do I transition from a Software Engineer Job to a Product Manager Job in India without an MBA? ",
+    "source" : "Quora"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("60369b750c817f0398fadf86"),
+    "job_link" : "https://www.quora.com/What-things-are-common-between-a-product-management-and-a-technology-consulting-job?-",
+    "answer" : "(Since I consult to technology companies around product management...) In both cases, it's critical to first understand the client's actual (and perceived) problems including relative priority/urgency.  What's not working, underlying root causes, organizational or architectural issues.  I'm always trying to do situation analysis and confirm that with clients BEFORE proposing solutions and starting work.  That exactly mirrors the product management prime directive to deeply understand markets/segments/customers/users/needs BEFORE spec'ing and building some expensive widget. Then, it's critical to find some quick/early wins in the consulting process.  What success or improvement can we demonstrate in days/weeks?  (Unless you're a Big 4 firm with a F500 client who has $100M's to spend as quickly as possible.)  Shared success and joint confidence-building are critical to healthy consulting relationships.  Resequencing of project elements is to be expected.  Frequent status reports and interim deliverables matter.That closely aligns with prodmgmt's roadmapping challenge.  How to get a a few important things done soon, rather than many partially statred but never finished?  How to demonstrate to customers/stakeholders that you can ship incremental value often and still get the really big things done?",
+    "date" : ISODate("2021-02-24T18:31:17.782Z"),
+    "question" : "What things are common between a product management and a technology consulting job? ",
+    "source" : "Quora"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("60369b940c817f0398fadfbe"),
+    "job_link" : "https://www.quora.com/Why-are-non-techinical-product-managers-so-bad-at-their-jobs-and-how-can-I-deal-with-them?-",
+    "answer" : "Vince Law Wow, sorry to hear about your situation. As a career product manager, PM team leader, and PM coach, I feel for you through various situations I have personally encountered or have coached other people through. Many other people have already shared their insights on how to best handle the tactics of the situation: build a rapport with the PM, improve communication, contribute to a shared language, etc. These are all really great tips, but a big issue here is to find out exactly what the root cause it. In these situations, this is what the problem looks like on the surface: The PM you are working with is simply not very good at their job — this can very well be true, and perhaps this is already known to their manager and they have tried their best to improve his/her performanceHowever, what’s a Continue Reading Continue Reading",
+    "date" : ISODate("2021-02-24T18:31:48.823Z"),
+    "question" : "Why are non techinical product managers so bad at their jobs and how can I deal with them? ",
+    "source" : "Quora"
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("60369bae0c817f0398fae045"),
+    "job_link" : "https://www.quora.com/Where-can-I-find-Freelance-Product-Management-jobs-in-India?-",
+    "answer" : "",
+    "date" : ISODate("2021-02-24T18:32:14.800Z"),
+    "question" : "Where can I find Freelance Product Management jobs in India? ",
+    "source" : "Quora"
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("60369bc50c817f0398fae079"),
+    "job_link" : "https://www.quora.com/What-are-some-great-resources-to-find-product-management-jobs-in-Toronto?-",
+    "answer" : "Outside of your typical social circles or Slack communities, you might also consider looking at Roadmap.com. The site is full of active product managers from around the world, and each month there is a \"Who is hiring product managers?\" post that receives dozens of listings. The thread is not region-specific, but there are often jobs posted for Canada as well as several remote-friendly opportunities. The job openings are posted from people who are currently working at the hiring company.  Whatever type of organization you end up at, be sure the company aligns with your long-term career goals and your values align with their culture, then go for it! Best of luck in your search. Continue Reading Outside of your typical social circles or Slack communities, you might also consider looking at Roadmap.com. The site is full of active product managers from around the world, and each month there is a \"Who is hiring product managers?\" post that receives dozens of listings. The thread is not region-specific, but there are often jobs posted for Canada as well as several remote-friendly opportunities. The job openings are posted from people who are currently working at the hiring company.  Whatever type of organization you end up at, be sure the company aligns with your long-term career goals and your values align with their culture, then go for it! Best of luck in your search. Continue Reading",
+    "date" : ISODate("2021-02-24T18:32:37.014Z"),
+    "question" : "What are some great resources to find product management jobs in Toronto? ",
+    "source" : "Quora"
+}

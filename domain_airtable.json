@@ -1,0 +1,72 @@
+{"_id":{"$oid":"5faba4629e63af67e67c5db9"},"skillKey":"logoDesigner","skillValue":"Logo Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dba"},"skillKey":"arVrContentWriter","skillValue":"Ar Vr Content Writer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dbb"},"skillKey":"dronePilot","skillValue":"Drone Pilot"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dbc"},"skillKey":"conversationDesigner","skillValue":"Conversation Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dbd"},"skillKey":"webScraping","skillValue":"Web Scraping"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dbe"},"skillKey":"cryptographer ","skillValue":"Cryptographer "}
+{"_id":{"$oid":"5faba4629e63af67e67c5dbf"},"skillKey":"conversionOptimization","skillValue":"Conversion Optimization"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc0"},"skillKey":"uiUxDesign","skillValue":"Ui Ux Design"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc1"},"skillKey":"rigger","skillValue":"Rigger"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc2"},"skillKey":"podcastWriting","skillValue":"Podcast Writing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc3"},"skillKey":"cryptoComplianceConsultant","skillValue":"Crypto Compliance Consultant"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc4"},"skillKey":"notionSpecialist","skillValue":"Notion Specialist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc5"},"skillKey":"threatHunter","skillValue":"Threat Hunter"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc6"},"skillKey":"socialVideoMarketer","skillValue":"Social Video Marketer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc7"},"skillKey":"figmaDesigner","skillValue":"Figma Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc8"},"skillKey":"dataAnalytics","skillValue":"Data Analytics"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dc9"},"skillKey":"dataLabellingProfessional","skillValue":"Data Labelling Professional"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dca"},"skillKey":"catastropheRiskAnalyst","skillValue":"Catastrophe Risk Analyst"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dcb"},"skillKey":"seoExpert","skillValue":"SEO Expert"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dcc"},"skillKey":"droneJournalist","skillValue":"Drone Journalist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dcd"},"skillKey":"unityDeveloper","skillValue":"Unity Developer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dce"},"skillKey":"dataVisualization ","skillValue":"Data Visualization "}
+{"_id":{"$oid":"5faba4629e63af67e67c5dcf"},"skillKey":"airtableDeveloper","skillValue":"Airtable Developer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd0"},"skillKey":"blockchainManager","skillValue":"Blockchain Manager"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd1"},"skillKey":"mixedRealityArtist","skillValue":"Mixed Reality Artist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd2"},"skillKey":"voiceoverArtist","skillValue":"Voiceover Artist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd3"},"skillKey":"socialMediaMarketing","skillValue":"Social Media Marketing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd4"},"skillKey":"projectScheduling","skillValue":"Project Scheduling"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd5"},"skillKey":"icoAdvisor","skillValue":"Ico Advisor"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd6"},"skillKey":"videoEditing","skillValue":"Video Editing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd7"},"skillKey":"photoEditing","skillValue":"Photo Editing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd8"},"skillKey":"shopifyExpert","skillValue":"Shopify Expert"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dd9"},"skillKey":"droneCinematographer","skillValue":"Drone Cinematographer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dda"},"skillKey":"productDesign","skillValue":"Product Design"}
+{"_id":{"$oid":"5faba4629e63af67e67c5ddb"},"skillKey":"vrSoundEffectsSpecialist","skillValue":"Vr Sound Effects Specialist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5ddc"},"skillKey":"vrPrototyper","skillValue":"Vr Prototyper"}
+{"_id":{"$oid":"5faba4629e63af67e67c5ddd"},"skillKey":"webResearch","skillValue":"Web Research"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dde"},"skillKey":"aiDesigner","skillValue":"Ai Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5ddf"},"skillKey":"motionGraphics","skillValue":"Motion Graphics"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de0"},"skillKey":"threeDArtist","skillValue":"Three DArtist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de1"},"skillKey":"webflowDeveloper","skillValue":"Webflow Developer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de2"},"skillKey":"noCodeDev","skillValue":"No Code Dev"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de3"},"skillKey":"musicCuration","skillValue":"Music Curation"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de4"},"skillKey":"salesforceLightning","skillValue":"Salesforce Lightning"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de5"},"skillKey":"aiStrategist","skillValue":"Ai Strategist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de6"},"skillKey":"transcriptionist","skillValue":"Transcriptionist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de7"},"skillKey":"asanaExpert","skillValue":"Asana Expert"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de8"},"skillKey":"ecommerceSpecialist","skillValue":"Ecommerce Specialist"}
+{"_id":{"$oid":"5faba4629e63af67e67c5de9"},"skillKey":"slackbotDeveloper","skillValue":"Slackbot Developer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dea"},"skillKey":"designIllustration","skillValue":"Design Illustration"}
+{"_id":{"$oid":"5faba4629e63af67e67c5deb"},"skillKey":"animationModeling","skillValue":"Animation Modeling"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dec"},"skillKey":"dataMining","skillValue":"Data Mining"}
+{"_id":{"$oid":"5faba4629e63af67e67c5ded"},"skillKey":"animation","skillValue":"Animation"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dee"},"skillKey":"sketchDesigner","skillValue":"Sketch Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5def"},"skillKey":"investmentAnalytics","skillValue":"Investment Analytics"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df0"},"skillKey":"customerRetentionMarketing","skillValue":"Customer Retention Marketing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df1"},"skillKey":"salesforceDevelopment","skillValue":"Salesforce Development"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df2"},"skillKey":"cryptographyAnalyst","skillValue":"Cryptography Analyst"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df3"},"skillKey":"dronePhotographer","skillValue":"Drone Photographer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df4"},"skillKey":"productDesigner","skillValue":"Product Designer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df5"},"skillKey":"instagramMarketing","skillValue":"Instagram Marketing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df6"},"skillKey":"publicRelations","skillValue":"Public Relations"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df7"},"skillKey":"squarespace","skillValue":"Squarespace"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df8"},"skillKey":"brandVoiceTone","skillValue":"Brand Voice Tone"}
+{"_id":{"$oid":"5faba4629e63af67e67c5df9"},"skillKey":"artificialIntelligenceTrainer","skillValue":"Artificial Intelligence Trainer"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dfa"},"skillKey":"audioEditing","skillValue":"Audio Editing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dfb"},"skillKey":"contentLead","skillValue":"Content Lead"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dfc"},"skillKey":"smartContractAuditing","skillValue":"Smart Contract Auditing"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dfd"},"skillKey":"analyticsTranslator","skillValue":"Analytics Translator"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dfe"},"skillKey":"agileProjectManagement","skillValue":"Agile Project Management"}
+{"_id":{"$oid":"5faba4629e63af67e67c5dff"},"skillKey":"imageAnnotation","skillValue":"Image Annotation"}
+{"_id":{"$oid":"5faba4629e63af67e67c5e00"},"skillKey":"virtualAssistant","skillValue":"Virtual Assistant"}
